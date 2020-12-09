@@ -1,31 +1,37 @@
 # read geography table; follows geographic levels table
-read_nepht_geographies <- function(geo) {
+read_nepht_geographies <- function(d, token = NULL) {
   base <- "https://ephtracking.cdc.gov:443/apigateway/api/v1"
-  geo <- geo[order(geo$mes_id, geo$geo_id), ]
+  d <- d[order(d$mes_id, d$geo_id), ]
   l <- list()
   x <- 1
-  for (i in 1:nrow(geo)) {
-    url <- paste(base, "geography", geo$mes_id[i], 
-                 geo$geo_id[i], "0", sep = "/") # 0 = non-rollup
-    id <- paste(geo$mes_id[i], geo$geo_id[i], sep = ".")
-    t <- read_nepht_api_data(url, id = id)
+  for (i in 1:nrow(d)) {
+    url <- paste(base, "geography", d$mes_id[i],
+                 d$geo_id[i], "0", sep = "/") # 0 = non-rollup
+    if (!is.null(token)) {
+      url <- paste0(url, "?apiToken=", token)
+    }
+    id <- paste(d$mes_id[i], d$geo_id[i], sep = ".")
+    t <- read_nepht_api(url, id = id)
     if (!is.character(t)) {
-      t$mes_id <- geo$mes_id[i]
-      t$geo_id <- geo$geo_id[i]
+      t$mes_id <- d$mes_id[i]
+      t$geo_id <- d$geo_id[i]
       t$rollup <- 0
       l[[x]] <- t
       x <- x + 1
       rm(t)
     }
   }
-  for (i in 1:nrow(geo)) {
-    url <- paste(base, "geography", geo$mes_id[i], 
-                 geo$geo_id[i], "1", sep = "/") # 1 = rollup
-    id <- paste(geo$mes_id[i], geo$geo_id[i], sep = ".")
+  for (i in 1:nrow(d)) {
+    url <- paste(base, "geography", d$mes_id[i],
+                 d$geo_id[i], "1", sep = "/") # 1 = rollup
+    if (!is.null(token)) {
+      url <- paste0(url, "?apiToken=", token)
+    }
+    id <- paste(d$mes_id[i], d$geo_id[i], sep = ".")
     t <- read_api_data(url, id = id)
     if(!is.character(t)) {
-      t$mes_id <- geo$mes_id[i]
-      t$geo_id <- geo$geo_id[i]
+      t$mes_id <- d$mes_id[i]
+      t$geo_id <- d$geo_id[i]
       t$rollup <- 1
       l[[x]] <- t
       x <- x + 1
