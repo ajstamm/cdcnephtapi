@@ -16,6 +16,9 @@ read_nepht_api <- function(url, id = 0) {
         d <- js[[index]]
         return(d)
       }
+    } else if (class(js) == "data.frame") {
+      d <- js
+      return(d)
     }
   }
   print(paste(id, ": No table produced."))

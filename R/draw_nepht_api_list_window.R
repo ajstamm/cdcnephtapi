@@ -1,8 +1,14 @@
 # selectmode = single, extended
 draw_nepht_api_list_window <- function(title = "Selection", 
                                        mylist = letters, 
-                                 instruction = "Please select one.",
-                                 opts = "single") {
+                                       instruction = "Please select one.",
+                                       opts = "single", all = FALSE) {
+  if (all) {
+    mylist <- c("All options", unique(mylist[order(mylist)]))
+  } else {
+    mylist <- unique(mylist[order(mylist)])
+  }
+  
   # create frames ####
   tt <- tcltk::tktoplevel()
   tcltk::tktitle(tt) <- title
