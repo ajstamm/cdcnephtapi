@@ -28,8 +28,9 @@ read_nepht_stratification <- function(d, token = NULL) {
     #       "; geo_id =", geo$geo_id[i]))
   }
   d <- dplyr::bind_rows(l)
+  d$index <- 1:nrow(d)
   e <- tidyr::unnest(d, stratificationType)
-  f <- d[!d$cat_id %in% e$cat_id,
+  f <- d[!d$index %in% e$index,
          c("mes_id", "geo_id", "cat_id", "cat_name", "smooth")]
   d <- bind_rows(e, f)
   d$cat_lbl <- d$columnName

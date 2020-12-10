@@ -84,9 +84,15 @@ identify_nepht_api_settings <- function(path = "data") {
   l <- data[which(data$mes_id == measure$id), ]
 
   lbl <- draw_nepht_api_list_window(title = title, instruction = instr,
-                                    mylist = l$name)$myvar
-  id <- l$geo_id[l$name == lbl]
-  is_smooth <- l$smooth[l$name == lbl]
+                                    mylist = l$name, all = TRUE)$myvar
+  if (lbl == "All options") {
+    id <- "ALL"
+    is_smooth <- 0 # could be 1 sometimes; add new dialog?
+  } else {
+    id <- l$geo_id[l$name %in% lbl]
+    is_smooth <- l$smooth[l$name == lbl]
+  }
+
   geolevel <- list(id = id, lbl = lbl, is_smooth = is_smooth)
 
   #---- geography ----
@@ -96,11 +102,16 @@ identify_nepht_api_settings <- function(path = "data") {
                   "content area: ", content$lbl, "\n",
                   "indicator: ", indicator$lbl, "\n",
                   "measure: ", measure$lbl, "\n",
-                  "geographic level: ", geolevel$lbl, " level.")
+                  "geographic level: ", geolevel$lbl)
   data <- read.csv(paste(path, "geography_pkg.csv", sep = "/"),
                    stringsAsFactors = FALSE)
 
-  l <- data[data$mes_id == measure$id & data$geo_id == geolevel$id, ]
+  if(geolevel$id == "All") {
+    geo_id <- 2
+  } else {
+    geo_id <- geolevel$id
+  }
+  l <- data[data$mes_id == measure$id & data$geo_id == geo_id, ]
 
   lbl <- draw_nepht_api_list_window(title = title, instruction = instr,
                                     mylist = l$cat_name, all = TRUE)$myvar
@@ -112,46 +123,51 @@ identify_nepht_api_settings <- function(path = "data") {
 
   geography <- list(id = id, lbl = lbl)
 
-  #---- measure stratification ----
+  #---- stratification ----
   # need cat_id, lbl, lvl_id, lvl_name, geo_id, mes_id, smooth, cat_name
   # allow multiple selections in second step
-  title <- "Measure stratification Selection"
+  title <- "Stratification Selection"
   instr <- paste0("Please select a stratification level for \n",
                   "content area: ", content$lbl, "\n",
                   "indicator: ", indicator$lbl, "\n",
                   "measure: ", measure$lbl, "\n",
-                  "geographic level: ", geolevel$lbl, " level.")
-  data <- read.csv(paste(path, "measurestrat_pkg.csv", sep = "/"),
+                  "geographic level: ", geolevel$lbl)
+  data <- read.csv(paste(path, "stratlevel_pkg.csv", sep = "/"),
                    stringsAsFactors = FALSE)
 
-  l <- data[data$mes_id == measure$id & data$geo_id == geolevel$id &
+  if(geolevel$id == "All") {
+    geo_id <- 2
+  } else {
+    geo_id <- geolevel$id
+  }
+  l <- data[data$mes_id == measure$id & data$geo_id == geo_id &
               data$smooth %in% geolevel$is_smooth, ]
 
-  if (nrow(l) > 0) {
-    lbl <- draw_nepht_api_list_window(title = title, instruction = instr,
+  lbl <- draw_nepht_api_list_window(title = title, instruction = instr,
                                       mylist = l$cat_name)$myvar
-  } else {
-    lbl <- character()
-  }
 
-  if (length(lbl) > 0) {
-    id <- unique(l$cat_id[l$cat_name %in% lbl])
-    tag <- unique(l$cat_lbl[l$cat_name %in% lbl])
+  id <- unique(l$cat_id[l$cat_name %in% lbl])
+  tag <- unique(l$cat_lbl[l$cat_name %in% lbl])
 
+  if (!is.na(tag)) {
     l <- l[l$cat_lbl == tag, ]
 
+    title <- "Measure Stratification Selection"
     instr <- paste0("Please select at least one level for \n",
                     "content area: ", content$lbl, "\n",
                     "indicator: ", indicator$lbl, "\n",
                     "measure: ", measure$lbl, "\n",
                     "geographic level: ", geolevel$lbl, " level \n",
                     "stratification: ", lbl)
+    data <- read.csv(paste(path, "measurestrat_pkg.csv", sep = "/"),
+                     stringsAsFactors = FALSE)
+
     m_lbl <- draw_nepht_api_list_window(title = title, instruction = instr,
                                         mylist = l$lvl_name,
                                         opts = "extended")$myvar
     m_id <- l$lvl_id[l$lvl_name %in% m_lbl]
   } else {
-    lbl <- id <- m_id <- tag <- m_lbl <- NULL
+    m_id <- m_lbl <- tag <- NULL
   }
 
   strat <- list(lbl = lbl, id = id, type = tag,
@@ -170,20 +186,29 @@ identify_nepht_api_settings <- function(path = "data") {
   data <- read.csv(paste(path, "temporal_pkg.csv", sep = "/"),
                    stringsAsFactors = FALSE)
 
-  l <- data[data$mes_id == measure$id & data$geo_id == geolevel$id, ]
+  if(geolevel$id == "All") {
+    geo_id <- 2
+  } else {
+    geo_id <- geolevel$id
+  }
+  l <- data[data$mes_id == measure$id & data$geo_id == geo_id, ]
   # multi-year; appears to be labeled with latest year in API,
   # but all years listed in temporal table
   # may vary by state; code based on AZ for now
   if (content$lbl == "Birth Defects") {
     l <- l[l$cat_val > min(l$cat_val) + 4, ]
+    opts <- "single"
+  } else {
+    opts <- "extended"
   }
 
   id <- draw_nepht_api_list_window(title = title, instruction = instr,
                                    mylist = unique(l$cat_val),
-                                   opts = "extended")$myvar
-  years <- list(id = id)
+                                   opts = opts)$myvar
+  years <- list(id = id[order(-id)])
 
   #---- final list ----
+  if (geography$id == "ALL") geolevel$id <- "ALL"
   settings <- list(content = content,      # lbl, id
                    indicator = indicator,  # lbl, id
                    measure = measure,      # lbl, id

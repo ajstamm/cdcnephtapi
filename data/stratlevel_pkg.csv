@@ -1,0 +1,2520 @@
+"mes_id","geo_id","cat_id","cat_name","cat_lbl","lvl_name","lvl_id","smooth"
+29,1,3,"State x Age","AgeBandId","Age Group",3,0
+29,1,4,"State x Gender","GenderId","Gender",4,0
+29,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+29,2,9,"State x County x Age","AgeBandId","Age Group",3,0
+29,2,10,"State x County x Gender","GenderId","Gender",4,0
+29,2,13,"State x County x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+30,1,3,"State x Age","AgeBandId","Age Group",3,0
+30,1,4,"State x Gender","GenderId","Gender",4,0
+30,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+30,2,9,"State x County x Age","AgeBandId","Age Group",3,1
+30,2,10,"State x County x Gender","GenderId","Gender",4,1
+30,2,13,"State x County x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,1
+35,1,3,"State x Age","AgeBandId","Age Group",3,0
+35,1,4,"State x Gender","GenderId","Gender",4,0
+35,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+35,1,167,"State x Term","TermId","Term",50,0
+35,1,169,"State x Age x Term","AgeBandId","Age Group",3,0
+35,1,169,"State x Age x Term","TermId","Term",50,0
+35,1,170,"State x Gender x Term","GenderId","Gender",4,0
+35,1,170,"State x Gender x Term","TermId","Term",50,0
+35,1,171,"State x Race/Ethnicity x Term","RaceEthnicityId","Race/Ethnicity",2,0
+35,1,171,"State x Race/Ethnicity x Term","TermId","Term",50,0
+35,2,9,"State x County x Age","AgeBandId","Age Group",3,0
+35,2,10,"State x County x Gender","GenderId","Gender",4,0
+35,2,13,"State x County x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+35,2,168,"State x County x Term","TermId","Term",50,0
+35,2,172,"State x County x Age x Term","AgeBandId","Age Group",3,0
+35,2,172,"State x County x Age x Term","TermId","Term",50,0
+35,2,173,"State x County x Gender x Term","GenderId","Gender",4,0
+35,2,173,"State x County x Gender x Term","TermId","Term",50,0
+35,2,174,"State x County x Race/Ethnicity x Term","RaceEthnicityId","Race/Ethnicity",2,0
+35,2,174,"State x County x Race/Ethnicity x Term","TermId","Term",50,0
+36,1,3,"State x Age","AgeBandId","Age Group",3,0
+36,1,4,"State x Gender","GenderId","Gender",4,0
+36,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+36,1,167,"State x Term","TermId","Term",50,0
+36,1,169,"State x Age x Term","AgeBandId","Age Group",3,0
+36,1,169,"State x Age x Term","TermId","Term",50,0
+36,1,170,"State x Gender x Term","GenderId","Gender",4,0
+36,1,170,"State x Gender x Term","TermId","Term",50,0
+36,1,171,"State x Race/Ethnicity x Term","RaceEthnicityId","Race/Ethnicity",2,0
+36,1,171,"State x Race/Ethnicity x Term","TermId","Term",50,0
+36,2,9,"State x County x Age","AgeBandId","Age Group",3,1
+36,2,10,"State x County x Gender","GenderId","Gender",4,1
+36,2,13,"State x County x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,1
+36,2,168,"State x County x Term","TermId","Term",50,1
+36,2,172,"State x County x Age x Term","AgeBandId","Age Group",3,1
+36,2,172,"State x County x Age x Term","TermId","Term",50,1
+36,2,173,"State x County x Gender x Term","GenderId","Gender",4,1
+36,2,173,"State x County x Gender x Term","TermId","Term",50,1
+36,2,174,"State x County x Race/Ethnicity x Term","RaceEthnicityId","Race/Ethnicity",2,1
+36,2,174,"State x County x Race/Ethnicity x Term","TermId","Term",50,1
+45,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+45,1,39,"State x Race x Ethnicity","RaceId","Race",1,0
+45,1,39,"State x Race x Ethnicity","EthnicityId","Ethnicity",7,0
+45,2,13,"State x County x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+45,2,54,"State x County x Race x Ethnicity","RaceId","Race",1,0
+45,2,54,"State x County x Race x Ethnicity","EthnicityId","Ethnicity",7,0
+46,1,3,"State x Age","AgeBandId","Age Group",3,0
+46,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+46,1,42,"State x Age x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+46,1,42,"State x Age x Race/Ethnicity","AgeBandId","Age Group",3,0
+46,2,9,"State x County x Age","AgeBandId","Age Group",3,1
+46,2,13,"State x County x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,1
+47,1,4,"State x Gender","GenderId","Gender",4,0
+47,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+47,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+47,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+48,1,4,"State x Gender","GenderId","Gender",4,0
+48,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+48,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+48,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+49,1,4,"State x Gender","GenderId","Gender",4,0
+49,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+49,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+49,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+50,1,4,"State x Gender","GenderId","Gender",4,0
+50,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+50,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+50,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+55,1,4,"State x Gender","GenderId","Gender",4,0
+55,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+55,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+55,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+56,1,4,"State x Gender","GenderId","Gender",4,0
+56,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+56,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+56,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+57,1,4,"State x Gender","GenderId","Gender",4,0
+57,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+57,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+57,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+58,1,4,"State x Gender","GenderId","Gender",4,0
+58,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+58,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+58,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+59,1,4,"State x Gender","GenderId","Gender",4,0
+59,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+59,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+59,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+60,1,4,"State x Gender","GenderId","Gender",4,0
+60,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+60,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+60,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+61,1,4,"State x Gender","GenderId","Gender",4,0
+61,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+61,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+61,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+62,1,4,"State x Gender","GenderId","Gender",4,0
+62,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+62,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+62,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+63,1,4,"State x Gender","GenderId","Gender",4,0
+63,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+63,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+63,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+64,1,4,"State x Gender","GenderId","Gender",4,0
+64,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+64,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+64,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+65,1,4,"State x Gender","GenderId","Gender",4,0
+65,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+65,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+65,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+66,1,4,"State x Gender","GenderId","Gender",4,0
+66,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+66,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+66,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+67,1,4,"State x Gender","GenderId","Gender",4,0
+67,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+67,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+67,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+68,1,4,"State x Gender","GenderId","Gender",4,0
+68,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+68,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+68,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+69,1,4,"State x Gender","GenderId","Gender",4,0
+69,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+69,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+69,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+70,1,4,"State x Gender","GenderId","Gender",4,0
+70,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+70,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+70,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+71,1,4,"State x Gender","GenderId","Gender",4,0
+71,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+71,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+71,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+72,1,4,"State x Gender","GenderId","Gender",4,0
+72,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+72,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+72,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+73,1,4,"State x Gender","GenderId","Gender",4,0
+73,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+73,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+73,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+74,1,4,"State x Gender","GenderId","Gender",4,0
+74,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+74,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+74,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+75,1,4,"State x Gender","GenderId","Gender",4,0
+75,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+75,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+75,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+76,1,4,"State x Gender","GenderId","Gender",4,0
+76,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+76,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+76,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+77,1,4,"State x Gender","GenderId","Gender",4,0
+77,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+77,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+77,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+78,1,4,"State x Gender","GenderId","Gender",4,0
+78,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+78,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+78,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+79,1,4,"State x Gender","GenderId","Gender",4,0
+79,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+79,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+79,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+80,1,4,"State x Gender","GenderId","Gender",4,0
+80,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+80,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+80,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+81,1,4,"State x Gender","GenderId","Gender",4,0
+81,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+81,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+81,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+82,1,4,"State x Gender","GenderId","Gender",4,0
+82,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+82,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+82,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+93,1,45,"State x Blood Lead Level","BloodLeadLevelId","Blood Lead Level",6,0
+94,1,45,"State x Blood Lead Level","BloodLeadLevelId","Blood Lead Level",6,0
+99,1,3,"State x Age","AgeBandId","Age Group",3,0
+99,1,4,"State x Gender","GenderId","Gender",4,0
+99,1,37,"State x Age x Gender","AgeBandId","Age Group",3,0
+99,1,37,"State x Age x Gender","GenderId","Gender",4,0
+101,1,3,"State x Age","AgeBandId","Age Group",3,0
+101,1,4,"State x Gender","GenderId","Gender",4,0
+101,1,37,"State x Age x Gender","AgeBandId","Age Group",3,0
+101,1,37,"State x Age x Gender","GenderId","Gender",4,0
+101,2,9,"State x County x Age","AgeBandId","Age Group",3,1
+101,2,10,"State x County x Gender","GenderId","Gender",4,1
+101,2,52,"State x County x Age x Gender","AgeBandId","Age Group",3,1
+101,2,52,"State x County x Age x Gender","GenderId","Gender",4,1
+103,1,4,"State x Gender","GenderId","Gender",4,0
+103,2,10,"State x County x Gender","GenderId","Gender",4,1
+104,1,3,"State x Age","AgeBandId","Age Group",3,0
+104,1,4,"State x Gender","GenderId","Gender",4,0
+104,1,37,"State x Age x Gender","AgeBandId","Age Group",3,0
+104,1,37,"State x Age x Gender","GenderId","Gender",4,0
+106,1,3,"State x Age","AgeBandId","Age Group",3,0
+106,1,4,"State x Gender","GenderId","Gender",4,0
+106,1,37,"State x Age x Gender","AgeBandId","Age Group",3,0
+106,1,37,"State x Age x Gender","GenderId","Gender",4,0
+106,2,9,"State x County x Age","AgeBandId","Age Group",3,1
+106,2,10,"State x County x Gender","GenderId","Gender",4,1
+106,2,52,"State x County x Age x Gender","AgeBandId","Age Group",3,1
+106,2,52,"State x County x Age x Gender","GenderId","Gender",4,1
+108,1,4,"State x Gender","GenderId","Gender",4,0
+108,2,10,"State x County x Gender","GenderId","Gender",4,1
+117,1,44,"State x Cause","CauseId","Cause",5,0
+118,1,44,"State x Cause","CauseId","Cause",5,0
+119,1,44,"State x Cause","CauseId","Cause",5,0
+120,1,44,"State x Cause","CauseId","Cause",5,0
+121,1,44,"State x Cause","CauseId","Cause",5,0
+122,1,44,"State x Cause","CauseId","Cause",5,0
+221,1,4,"State x Gender","GenderId","Gender",4,0
+221,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+221,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+221,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+221,2,10,"State x County x Gender","GenderId","Gender",4,1
+221,2,13,"State x County x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,1
+222,1,4,"State x Gender","GenderId","Gender",4,0
+222,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+222,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+222,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+222,2,10,"State x County x Gender","GenderId","Gender",4,1
+222,2,13,"State x County x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,1
+223,1,4,"State x Gender","GenderId","Gender",4,0
+223,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+223,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+223,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+223,2,10,"State x County x Gender","GenderId","Gender",4,1
+223,2,13,"State x County x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,1
+224,1,4,"State x Gender","GenderId","Gender",4,0
+224,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+224,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+224,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+224,2,10,"State x County x Gender","GenderId","Gender",4,1
+224,2,13,"State x County x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,1
+225,1,4,"State x Gender","GenderId","Gender",4,0
+225,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+225,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+225,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+225,2,10,"State x County x Gender","GenderId","Gender",4,1
+225,2,13,"State x County x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,1
+226,1,4,"State x Gender","GenderId","Gender",4,0
+226,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+226,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+226,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+226,2,10,"State x County x Gender","GenderId","Gender",4,1
+226,2,13,"State x County x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,1
+229,1,4,"State x Gender","GenderId","Gender",4,0
+229,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+229,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+229,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+229,2,10,"State x County x Gender","GenderId","Gender",4,0
+229,2,13,"State x County x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+230,1,4,"State x Gender","GenderId","Gender",4,0
+230,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+230,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+230,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+230,2,10,"State x County x Gender","GenderId","Gender",4,0
+230,2,13,"State x County x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+231,1,4,"State x Gender","GenderId","Gender",4,0
+231,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+231,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+231,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+231,2,10,"State x County x Gender","GenderId","Gender",4,0
+231,2,13,"State x County x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+232,1,4,"State x Gender","GenderId","Gender",4,0
+232,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+232,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+232,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+232,2,10,"State x County x Gender","GenderId","Gender",4,0
+232,2,13,"State x County x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+233,1,4,"State x Gender","GenderId","Gender",4,0
+233,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+233,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+233,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+233,2,10,"State x County x Gender","GenderId","Gender",4,0
+233,2,13,"State x County x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+234,1,4,"State x Gender","GenderId","Gender",4,0
+234,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+234,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+234,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+234,2,10,"State x County x Gender","GenderId","Gender",4,0
+234,2,13,"State x County x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+237,1,3,"State x Age","AgeBandId","Age Group",3,0
+237,1,4,"State x Gender","GenderId","Gender",4,0
+237,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+237,1,37,"State x Age x Gender","AgeBandId","Age Group",3,0
+237,1,37,"State x Age x Gender","GenderId","Gender",4,0
+237,1,42,"State x Age x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+237,1,42,"State x Age x Race/Ethnicity","AgeBandId","Age Group",3,0
+237,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+237,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+237,1,133,"State x Age x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+237,1,133,"State x Age x Gender x Race/Ethnicity","AgeBandId","Age Group",3,0
+237,1,133,"State x Age x Gender x Race/Ethnicity","GenderId","Gender",4,0
+237,2,9,"State x County x Age","AgeBandId","Age Group",3,0
+237,2,10,"State x County x Gender","GenderId","Gender",4,0
+237,2,13,"State x County x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+238,1,3,"State x Age","AgeBandId","Age Group",3,0
+238,1,4,"State x Gender","GenderId","Gender",4,0
+238,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+238,1,37,"State x Age x Gender","AgeBandId","Age Group",3,0
+238,1,37,"State x Age x Gender","GenderId","Gender",4,0
+238,1,42,"State x Age x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+238,1,42,"State x Age x Race/Ethnicity","AgeBandId","Age Group",3,0
+238,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+238,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+238,1,133,"State x Age x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+238,1,133,"State x Age x Gender x Race/Ethnicity","AgeBandId","Age Group",3,0
+238,1,133,"State x Age x Gender x Race/Ethnicity","GenderId","Gender",4,0
+238,2,9,"State x County x Age","AgeBandId","Age Group",3,1
+238,2,10,"State x County x Gender","GenderId","Gender",4,1
+238,2,13,"State x County x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,1
+239,1,3,"State x Age","AgeBandId","Age Group",3,0
+239,1,4,"State x Gender","GenderId","Gender",4,0
+239,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+239,1,37,"State x Age x Gender","AgeBandId","Age Group",3,0
+239,1,37,"State x Age x Gender","GenderId","Gender",4,0
+239,1,42,"State x Age x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+239,1,42,"State x Age x Race/Ethnicity","AgeBandId","Age Group",3,0
+239,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+239,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+239,1,133,"State x Age x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+239,1,133,"State x Age x Gender x Race/Ethnicity","AgeBandId","Age Group",3,0
+239,1,133,"State x Age x Gender x Race/Ethnicity","GenderId","Gender",4,0
+239,2,9,"State x County x Age","AgeBandId","Age Group",3,0
+239,2,10,"State x County x Gender","GenderId","Gender",4,0
+239,2,13,"State x County x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+240,1,3,"State x Age","AgeBandId","Age Group",3,0
+240,1,4,"State x Gender","GenderId","Gender",4,0
+240,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+240,1,37,"State x Age x Gender","AgeBandId","Age Group",3,0
+240,1,37,"State x Age x Gender","GenderId","Gender",4,0
+240,1,42,"State x Age x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+240,1,42,"State x Age x Race/Ethnicity","AgeBandId","Age Group",3,0
+240,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+240,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+240,1,133,"State x Age x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+240,1,133,"State x Age x Gender x Race/Ethnicity","AgeBandId","Age Group",3,0
+240,1,133,"State x Age x Gender x Race/Ethnicity","GenderId","Gender",4,0
+240,2,9,"State x County x Age","AgeBandId","Age Group",3,1
+240,2,10,"State x County x Gender","GenderId","Gender",4,1
+240,2,13,"State x County x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,1
+241,1,3,"State x Age","AgeBandId","Age Group",3,0
+241,1,4,"State x Gender","GenderId","Gender",4,0
+241,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+241,1,37,"State x Age x Gender","AgeBandId","Age Group",3,0
+241,1,37,"State x Age x Gender","GenderId","Gender",4,0
+241,1,42,"State x Age x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+241,1,42,"State x Age x Race/Ethnicity","AgeBandId","Age Group",3,0
+241,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+241,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+241,1,133,"State x Age x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+241,1,133,"State x Age x Gender x Race/Ethnicity","AgeBandId","Age Group",3,0
+241,1,133,"State x Age x Gender x Race/Ethnicity","GenderId","Gender",4,0
+241,2,9,"State x County x Age","AgeBandId","Age Group",3,0
+241,2,10,"State x County x Gender","GenderId","Gender",4,0
+241,2,13,"State x County x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+242,1,3,"State x Age","AgeBandId","Age Group",3,0
+242,1,4,"State x Gender","GenderId","Gender",4,0
+242,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+242,1,37,"State x Age x Gender","AgeBandId","Age Group",3,0
+242,1,37,"State x Age x Gender","GenderId","Gender",4,0
+242,1,42,"State x Age x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+242,1,42,"State x Age x Race/Ethnicity","AgeBandId","Age Group",3,0
+242,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+242,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+242,1,133,"State x Age x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+242,1,133,"State x Age x Gender x Race/Ethnicity","AgeBandId","Age Group",3,0
+242,1,133,"State x Age x Gender x Race/Ethnicity","GenderId","Gender",4,0
+242,2,9,"State x County x Age","AgeBandId","Age Group",3,1
+242,2,10,"State x County x Gender","GenderId","Gender",4,1
+242,2,13,"State x County x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,1
+243,1,3,"State x Age","AgeBandId","Age Group",3,0
+243,1,4,"State x Gender","GenderId","Gender",4,0
+243,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+243,1,37,"State x Age x Gender","AgeBandId","Age Group",3,0
+243,1,37,"State x Age x Gender","GenderId","Gender",4,0
+243,1,42,"State x Age x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+243,1,42,"State x Age x Race/Ethnicity","AgeBandId","Age Group",3,0
+243,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+243,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+243,1,133,"State x Age x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+243,1,133,"State x Age x Gender x Race/Ethnicity","AgeBandId","Age Group",3,0
+243,1,133,"State x Age x Gender x Race/Ethnicity","GenderId","Gender",4,0
+243,2,9,"State x County x Age","AgeBandId","Age Group",3,0
+243,2,10,"State x County x Gender","GenderId","Gender",4,0
+243,2,13,"State x County x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+244,1,3,"State x Age","AgeBandId","Age Group",3,0
+244,1,4,"State x Gender","GenderId","Gender",4,0
+244,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+244,1,37,"State x Age x Gender","AgeBandId","Age Group",3,0
+244,1,37,"State x Age x Gender","GenderId","Gender",4,0
+244,1,42,"State x Age x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+244,1,42,"State x Age x Race/Ethnicity","AgeBandId","Age Group",3,0
+244,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+244,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+244,1,133,"State x Age x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+244,1,133,"State x Age x Gender x Race/Ethnicity","AgeBandId","Age Group",3,0
+244,1,133,"State x Age x Gender x Race/Ethnicity","GenderId","Gender",4,0
+244,2,9,"State x County x Age","AgeBandId","Age Group",3,1
+244,2,10,"State x County x Gender","GenderId","Gender",4,1
+244,2,13,"State x County x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,1
+245,1,3,"State x Age","AgeBandId","Age Group",3,0
+245,1,4,"State x Gender","GenderId","Gender",4,0
+245,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+245,1,37,"State x Age x Gender","AgeBandId","Age Group",3,0
+245,1,37,"State x Age x Gender","GenderId","Gender",4,0
+245,1,42,"State x Age x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+245,1,42,"State x Age x Race/Ethnicity","AgeBandId","Age Group",3,0
+245,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+245,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+245,1,133,"State x Age x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+245,1,133,"State x Age x Gender x Race/Ethnicity","AgeBandId","Age Group",3,0
+245,1,133,"State x Age x Gender x Race/Ethnicity","GenderId","Gender",4,0
+245,2,9,"State x County x Age","AgeBandId","Age Group",3,0
+245,2,10,"State x County x Gender","GenderId","Gender",4,0
+245,2,13,"State x County x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+246,1,3,"State x Age","AgeBandId","Age Group",3,0
+246,1,4,"State x Gender","GenderId","Gender",4,0
+246,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+246,1,37,"State x Age x Gender","AgeBandId","Age Group",3,0
+246,1,37,"State x Age x Gender","GenderId","Gender",4,0
+246,1,42,"State x Age x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+246,1,42,"State x Age x Race/Ethnicity","AgeBandId","Age Group",3,0
+246,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+246,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+246,1,133,"State x Age x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+246,1,133,"State x Age x Gender x Race/Ethnicity","AgeBandId","Age Group",3,0
+246,1,133,"State x Age x Gender x Race/Ethnicity","GenderId","Gender",4,0
+246,2,9,"State x County x Age","AgeBandId","Age Group",3,1
+246,2,10,"State x County x Gender","GenderId","Gender",4,1
+246,2,13,"State x County x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,1
+249,1,3,"State x Age","AgeBandId","Age Group",3,0
+249,1,4,"State x Gender","GenderId","Gender",4,0
+249,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+249,1,37,"State x Age x Gender","AgeBandId","Age Group",3,0
+249,1,37,"State x Age x Gender","GenderId","Gender",4,0
+249,1,42,"State x Age x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+249,1,42,"State x Age x Race/Ethnicity","AgeBandId","Age Group",3,0
+249,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+249,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+249,1,133,"State x Age x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+249,1,133,"State x Age x Gender x Race/Ethnicity","AgeBandId","Age Group",3,0
+249,1,133,"State x Age x Gender x Race/Ethnicity","GenderId","Gender",4,0
+249,2,9,"State x County x Age","AgeBandId","Age Group",3,0
+249,2,10,"State x County x Gender","GenderId","Gender",4,0
+249,2,13,"State x County x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+250,1,3,"State x Age","AgeBandId","Age Group",3,0
+250,1,4,"State x Gender","GenderId","Gender",4,0
+250,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+250,1,37,"State x Age x Gender","AgeBandId","Age Group",3,0
+250,1,37,"State x Age x Gender","GenderId","Gender",4,0
+250,1,42,"State x Age x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+250,1,42,"State x Age x Race/Ethnicity","AgeBandId","Age Group",3,0
+250,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+250,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+250,1,133,"State x Age x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+250,1,133,"State x Age x Gender x Race/Ethnicity","AgeBandId","Age Group",3,0
+250,1,133,"State x Age x Gender x Race/Ethnicity","GenderId","Gender",4,0
+250,2,9,"State x County x Age","AgeBandId","Age Group",3,1
+250,2,10,"State x County x Gender","GenderId","Gender",4,1
+250,2,13,"State x County x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,1
+251,1,3,"State x Age","AgeBandId","Age Group",3,0
+251,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+251,1,42,"State x Age x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+251,1,42,"State x Age x Race/Ethnicity","AgeBandId","Age Group",3,0
+251,2,9,"State x County x Age","AgeBandId","Age Group",3,0
+251,2,13,"State x County x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+252,1,3,"State x Age","AgeBandId","Age Group",3,0
+252,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+252,1,42,"State x Age x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+252,1,42,"State x Age x Race/Ethnicity","AgeBandId","Age Group",3,0
+252,2,9,"State x County x Age","AgeBandId","Age Group",3,1
+252,2,13,"State x County x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,1
+253,1,3,"State x Age","AgeBandId","Age Group",3,0
+253,1,4,"State x Gender","GenderId","Gender",4,0
+253,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+253,1,37,"State x Age x Gender","AgeBandId","Age Group",3,0
+253,1,37,"State x Age x Gender","GenderId","Gender",4,0
+253,1,42,"State x Age x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+253,1,42,"State x Age x Race/Ethnicity","AgeBandId","Age Group",3,0
+253,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+253,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+253,1,133,"State x Age x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+253,1,133,"State x Age x Gender x Race/Ethnicity","AgeBandId","Age Group",3,0
+253,1,133,"State x Age x Gender x Race/Ethnicity","GenderId","Gender",4,0
+253,2,9,"State x County x Age","AgeBandId","Age Group",3,0
+253,2,10,"State x County x Gender","GenderId","Gender",4,0
+253,2,13,"State x County x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+254,1,3,"State x Age","AgeBandId","Age Group",3,0
+254,1,4,"State x Gender","GenderId","Gender",4,0
+254,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+254,1,37,"State x Age x Gender","AgeBandId","Age Group",3,0
+254,1,37,"State x Age x Gender","GenderId","Gender",4,0
+254,1,42,"State x Age x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+254,1,42,"State x Age x Race/Ethnicity","AgeBandId","Age Group",3,0
+254,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+254,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+254,1,133,"State x Age x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+254,1,133,"State x Age x Gender x Race/Ethnicity","AgeBandId","Age Group",3,0
+254,1,133,"State x Age x Gender x Race/Ethnicity","GenderId","Gender",4,0
+254,2,9,"State x County x Age","AgeBandId","Age Group",3,1
+254,2,10,"State x County x Gender","GenderId","Gender",4,1
+254,2,13,"State x County x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,1
+259,1,4,"State x Gender","GenderId","Gender",4,0
+259,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+259,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+259,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+259,2,10,"State x County x Gender","GenderId","Gender",4,0
+259,2,13,"State x County x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+260,1,4,"State x Gender","GenderId","Gender",4,0
+260,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+260,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+260,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+260,2,10,"State x County x Gender","GenderId","Gender",4,1
+260,2,13,"State x County x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,1
+261,1,4,"State x Gender","GenderId","Gender",4,0
+261,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+261,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+261,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+261,2,10,"State x County x Gender","GenderId","Gender",4,0
+261,2,13,"State x County x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+262,1,4,"State x Gender","GenderId","Gender",4,0
+262,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+262,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+262,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+262,2,10,"State x County x Gender","GenderId","Gender",4,1
+262,2,13,"State x County x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,1
+274,1,3,"State x Age","AgeBandId","Age Group",3,0
+274,1,4,"State x Gender","GenderId","Gender",4,0
+274,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+275,1,3,"State x Age","AgeBandId","Age Group",3,0
+275,1,4,"State x Gender","GenderId","Gender",4,0
+275,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+276,1,3,"State x Age","AgeBandId","Age Group",3,0
+276,1,4,"State x Gender","GenderId","Gender",4,0
+276,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+277,1,3,"State x Age","AgeBandId","Age Group",3,0
+277,1,4,"State x Gender","GenderId","Gender",4,0
+277,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+278,1,3,"State x Age","AgeBandId","Age Group",3,0
+278,1,4,"State x Gender","GenderId","Gender",4,0
+278,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+279,1,3,"State x Age","AgeBandId","Age Group",3,0
+279,1,4,"State x Gender","GenderId","Gender",4,0
+279,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+280,1,3,"State x Age","AgeBandId","Age Group",3,0
+280,1,4,"State x Gender","GenderId","Gender",4,0
+280,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+281,1,3,"State x Age","AgeBandId","Age Group",3,0
+281,1,4,"State x Gender","GenderId","Gender",4,0
+281,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+284,1,3,"State x Age","AgeBandId","Age Group",3,0
+284,1,4,"State x Gender","GenderId","Gender",4,0
+284,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+285,1,3,"State x Age","AgeBandId","Age Group",3,0
+285,1,4,"State x Gender","GenderId","Gender",4,0
+285,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+286,1,3,"State x Age","AgeBandId","Age Group",3,0
+286,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+286,1,42,"State x Age x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+286,1,42,"State x Age x Race/Ethnicity","AgeBandId","Age Group",3,0
+287,1,3,"State x Age","AgeBandId","Age Group",3,0
+287,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+287,1,42,"State x Age x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+287,1,42,"State x Age x Race/Ethnicity","AgeBandId","Age Group",3,0
+290,1,3,"State x Age","AgeBandId","Age Group",3,0
+290,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+290,1,42,"State x Age x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+290,1,42,"State x Age x Race/Ethnicity","AgeBandId","Age Group",3,0
+290,2,9,"State x County x Age","AgeBandId","Age Group",3,0
+290,2,13,"State x County x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+291,1,3,"State x Age","AgeBandId","Age Group",3,0
+291,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+291,1,42,"State x Age x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+291,1,42,"State x Age x Race/Ethnicity","AgeBandId","Age Group",3,0
+291,2,9,"State x County x Age","AgeBandId","Age Group",3,1
+291,2,13,"State x County x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,1
+324,1,3,"State x Age","AgeBandId","Age Group",3,0
+324,1,4,"State x Gender","GenderId","Gender",4,0
+324,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+324,1,37,"State x Age x Gender","AgeBandId","Age Group",3,0
+324,1,37,"State x Age x Gender","GenderId","Gender",4,0
+324,1,42,"State x Age x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+324,1,42,"State x Age x Race/Ethnicity","AgeBandId","Age Group",3,0
+324,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+324,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+324,1,133,"State x Age x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+324,1,133,"State x Age x Gender x Race/Ethnicity","AgeBandId","Age Group",3,0
+324,1,133,"State x Age x Gender x Race/Ethnicity","GenderId","Gender",4,0
+324,2,9,"State x County x Age","AgeBandId","Age Group",3,0
+324,2,10,"State x County x Gender","GenderId","Gender",4,0
+324,2,13,"State x County x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+324,2,52,"State x County x Age x Gender","AgeBandId","Age Group",3,0
+324,2,52,"State x County x Age x Gender","GenderId","Gender",4,0
+324,2,57,"State x County x Age x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+324,2,57,"State x County x Age x Race/Ethnicity","AgeBandId","Age Group",3,0
+324,2,58,"State x County x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+324,2,58,"State x County x Gender x Race/Ethnicity","GenderId","Gender",4,0
+324,2,149,"State x County x Age x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+324,2,149,"State x County x Age x Gender x Race/Ethnicity","AgeBandId","Age Group",3,0
+324,2,149,"State x County x Age x Gender x Race/Ethnicity","GenderId","Gender",4,0
+324,7,138,"State x Census Tract x Age","AgeBandId","Age Group",3,0
+324,7,139,"State x Census Tract x Gender","GenderId","Gender",4,0
+324,7,140,"State x Census Tract x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+324,10,2222,"State x 5k x Age","AgeBandId","Age Group",3,0
+324,10,2223,"State x 5k x Gender","GenderId","Gender",4,0
+324,10,2224,"State x 5k x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+324,12,2225,"State x 20k x Age","AgeBandId","Age Group",3,0
+324,12,2226,"State x 20k x Gender","GenderId","Gender",4,0
+324,12,2227,"State x 20k x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+326,1,3,"State x Age","AgeBandId","Age Group",3,0
+326,2,9,"State x County x Age","AgeBandId","Age Group",3,0
+327,1,3,"State x Age","AgeBandId","Age Group",3,0
+327,2,9,"State x County x Age","AgeBandId","Age Group",3,0
+329,1,3,"State x Age","AgeBandId","Age Group",3,0
+329,2,9,"State x County x Age","AgeBandId","Age Group",3,0
+330,1,3,"State x Age","AgeBandId","Age Group",3,0
+330,2,9,"State x County x Age","AgeBandId","Age Group",3,0
+333,1,3,"State x Age","AgeBandId","Age Group",3,0
+333,1,4,"State x Gender","GenderId","Gender",4,0
+333,1,5,"State x Race","RaceId","Race",1,0
+333,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+334,1,3,"State x Age","AgeBandId","Age Group",3,0
+334,1,4,"State x Gender","GenderId","Gender",4,0
+334,1,5,"State x Race","RaceId","Race",1,0
+334,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+335,1,3,"State x Age","AgeBandId","Age Group",3,0
+335,1,4,"State x Gender","GenderId","Gender",4,0
+335,1,5,"State x Race","RaceId","Race",1,0
+335,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+336,1,3,"State x Age","AgeBandId","Age Group",3,0
+336,1,4,"State x Gender","GenderId","Gender",4,0
+336,1,5,"State x Race","RaceId","Race",1,0
+336,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+367,2,178,"State x County x Land Type","LandTypeId","Land Type",52,0
+367,7,179,"State x Census Tract x Land Type","LandTypeId","Land Type",52,0
+368,2,178,"State x County x Land Type","LandTypeId","Land Type",52,0
+368,7,179,"State x Census Tract x Land Type","LandTypeId","Land Type",52,0
+369,2,178,"State x County x Land Type","LandTypeId","Land Type",52,0
+369,7,179,"State x Census Tract x Land Type","LandTypeId","Land Type",52,0
+373,1,4,"State x Gender","GenderId","Gender",4,0
+373,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+376,1,65,"State x Disability","DisabilityId","Disability",16,0
+377,1,65,"State x Disability","DisabilityId","Disability",16,0
+378,1,65,"State x Disability","DisabilityId","Disability",16,0
+379,1,65,"State x Disability","DisabilityId","Disability",16,0
+380,1,65,"State x Disability","DisabilityId","Disability",16,0
+381,1,65,"State x Disability","DisabilityId","Disability",16,0
+382,1,4,"State x Gender","GenderId","Gender",4,0
+382,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+382,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+382,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+383,1,4,"State x Gender","GenderId","Gender",4,0
+383,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+383,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+383,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+384,1,4,"State x Gender","GenderId","Gender",4,0
+384,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+384,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+384,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+385,1,4,"State x Gender","GenderId","Gender",4,0
+385,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+385,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+385,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+385,2,10,"State x County x Gender","GenderId","Gender",4,0
+385,2,13,"State x County x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+386,1,4,"State x Gender","GenderId","Gender",4,0
+386,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+386,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+386,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+387,1,4,"State x Gender","GenderId","Gender",4,0
+387,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+387,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+387,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+387,2,10,"State x County x Gender","GenderId","Gender",4,1
+387,2,13,"State x County x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,1
+388,1,4,"State x Gender","GenderId","Gender",4,0
+388,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+388,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+388,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+389,1,4,"State x Gender","GenderId","Gender",4,0
+389,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+389,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+389,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+389,2,10,"State x County x Gender","GenderId","Gender",4,0
+389,2,13,"State x County x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+390,1,4,"State x Gender","GenderId","Gender",4,0
+390,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+390,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+390,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+391,1,4,"State x Gender","GenderId","Gender",4,0
+391,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+391,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+391,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+391,2,10,"State x County x Gender","GenderId","Gender",4,1
+391,2,13,"State x County x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,1
+392,1,4,"State x Gender","GenderId","Gender",4,0
+392,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+392,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+392,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+393,1,4,"State x Gender","GenderId","Gender",4,0
+393,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+393,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+393,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+393,2,10,"State x County x Gender","GenderId","Gender",4,0
+393,2,13,"State x County x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+394,1,4,"State x Gender","GenderId","Gender",4,0
+394,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+394,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+394,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+395,1,4,"State x Gender","GenderId","Gender",4,0
+395,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+395,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+395,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+395,2,10,"State x County x Gender","GenderId","Gender",4,1
+395,2,13,"State x County x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,1
+396,2,66,"State x County x Reduction Rate","ReductionRateId","Reduction Percent",15,0
+396,2,67,"State x County x Reduction Rate x Percent GT 65","PopulationGT65Id","Percent of Population Over 65",10,0
+396,2,67,"State x County x Reduction Rate x Percent GT 65","ReductionRateId","Reduction Percent",15,0
+396,2,68,"State x County x Reduction Rate x Percent Poverty","PopulationPovertyId","Percent of Population in Poverty",11,0
+396,2,68,"State x County x Reduction Rate x Percent Poverty","ReductionRateId","Reduction Percent",15,0
+396,2,69,"State x County x Reduction Rate x Percent Uninsured","PopulationUninsuredId","Percent of Population (under 65) Uninsured",12,0
+396,2,69,"State x County x Reduction Rate x Percent Uninsured","ReductionRateId","Reduction Percent",15,0
+396,2,71,"State x County x Reduction Rate x Population Density","PopulationDensityId","Population Density",14,0
+396,2,71,"State x County x Reduction Rate x Population Density","ReductionRateId","Reduction Percent",15,0
+396,2,72,"State x County x Reduction Rate x Percent Smoking","ReductionRateId","Reduction Percent",15,0
+396,2,72,"State x County x Reduction Rate x Percent Smoking","PopulationSmokingId","Percent of Adult Smokers",17,0
+396,2,107,"State x County x Reduction Rate x Adult Obesity Prevalence","ReductionRateId","Reduction Percent",15,0
+396,2,107,"State x County x Reduction Rate x Adult Obesity Prevalence","PopulationObesityId","Adult Obesity Prevalence",32,0
+396,2,108,"State x County x Reduction Rate x Physical Inactivity Prevalence","ReductionRateId","Reduction Percent",15,0
+396,2,108,"State x County x Reduction Rate x Physical Inactivity Prevalence","PopulationPhysicalInactiveId","Physical Inactivity Prevalence",33,0
+396,2,110,"State x County x Reduction Rate x Diabetes Prevalence","ReductionRateId","Reduction Percent",15,0
+396,2,110,"State x County x Reduction Rate x Diabetes Prevalence","PopulationDiabetesId","Diabetes Prevalence",34,0
+397,2,66,"State x County x Reduction Rate","ReductionRateId","Reduction Percent",15,0
+397,2,67,"State x County x Reduction Rate x Percent GT 65","PopulationGT65Id","Percent of Population Over 65",10,0
+397,2,67,"State x County x Reduction Rate x Percent GT 65","ReductionRateId","Reduction Percent",15,0
+397,2,68,"State x County x Reduction Rate x Percent Poverty","PopulationPovertyId","Percent of Population in Poverty",11,0
+397,2,68,"State x County x Reduction Rate x Percent Poverty","ReductionRateId","Reduction Percent",15,0
+397,2,69,"State x County x Reduction Rate x Percent Uninsured","PopulationUninsuredId","Percent of Population (under 65) Uninsured",12,0
+397,2,69,"State x County x Reduction Rate x Percent Uninsured","ReductionRateId","Reduction Percent",15,0
+397,2,71,"State x County x Reduction Rate x Population Density","PopulationDensityId","Population Density",14,0
+397,2,71,"State x County x Reduction Rate x Population Density","ReductionRateId","Reduction Percent",15,0
+397,2,72,"State x County x Reduction Rate x Percent Smoking","ReductionRateId","Reduction Percent",15,0
+397,2,72,"State x County x Reduction Rate x Percent Smoking","PopulationSmokingId","Percent of Adult Smokers",17,0
+397,2,107,"State x County x Reduction Rate x Adult Obesity Prevalence","ReductionRateId","Reduction Percent",15,0
+397,2,107,"State x County x Reduction Rate x Adult Obesity Prevalence","PopulationObesityId","Adult Obesity Prevalence",32,0
+397,2,108,"State x County x Reduction Rate x Physical Inactivity Prevalence","ReductionRateId","Reduction Percent",15,0
+397,2,108,"State x County x Reduction Rate x Physical Inactivity Prevalence","PopulationPhysicalInactiveId","Physical Inactivity Prevalence",33,0
+397,2,110,"State x County x Reduction Rate x Diabetes Prevalence","ReductionRateId","Reduction Percent",15,0
+397,2,110,"State x County x Reduction Rate x Diabetes Prevalence","PopulationDiabetesId","Diabetes Prevalence",34,0
+398,2,66,"State x County x Reduction Rate","ReductionRateId","Reduction Percent",15,0
+398,2,67,"State x County x Reduction Rate x Percent GT 65","PopulationGT65Id","Percent of Population Over 65",10,0
+398,2,67,"State x County x Reduction Rate x Percent GT 65","ReductionRateId","Reduction Percent",15,0
+398,2,68,"State x County x Reduction Rate x Percent Poverty","PopulationPovertyId","Percent of Population in Poverty",11,0
+398,2,68,"State x County x Reduction Rate x Percent Poverty","ReductionRateId","Reduction Percent",15,0
+398,2,69,"State x County x Reduction Rate x Percent Uninsured","PopulationUninsuredId","Percent of Population (under 65) Uninsured",12,0
+398,2,69,"State x County x Reduction Rate x Percent Uninsured","ReductionRateId","Reduction Percent",15,0
+398,2,71,"State x County x Reduction Rate x Population Density","PopulationDensityId","Population Density",14,0
+398,2,71,"State x County x Reduction Rate x Population Density","ReductionRateId","Reduction Percent",15,0
+398,2,72,"State x County x Reduction Rate x Percent Smoking","ReductionRateId","Reduction Percent",15,0
+398,2,72,"State x County x Reduction Rate x Percent Smoking","PopulationSmokingId","Percent of Adult Smokers",17,0
+398,2,107,"State x County x Reduction Rate x Adult Obesity Prevalence","ReductionRateId","Reduction Percent",15,0
+398,2,107,"State x County x Reduction Rate x Adult Obesity Prevalence","PopulationObesityId","Adult Obesity Prevalence",32,0
+398,2,108,"State x County x Reduction Rate x Physical Inactivity Prevalence","ReductionRateId","Reduction Percent",15,0
+398,2,108,"State x County x Reduction Rate x Physical Inactivity Prevalence","PopulationPhysicalInactiveId","Physical Inactivity Prevalence",33,0
+398,2,110,"State x County x Reduction Rate x Diabetes Prevalence","ReductionRateId","Reduction Percent",15,0
+398,2,110,"State x County x Reduction Rate x Diabetes Prevalence","PopulationDiabetesId","Diabetes Prevalence",34,0
+413,1,3,"State x Age","AgeBandId","Age Group",3,0
+413,2,9,"State x County x Age","AgeBandId","Age Group",3,0
+414,1,3,"State x Age","AgeBandId","Age Group",3,0
+414,2,9,"State x County x Age","AgeBandId","Age Group",3,0
+415,1,3,"State x Age","AgeBandId","Age Group",3,0
+415,1,45,"State x Blood Lead Level","BloodLeadLevelId","Blood Lead Level",6,0
+415,1,81,"State x Blood Lead Level x Age","AgeBandId","Age Group",3,0
+415,1,81,"State x Blood Lead Level x Age","BloodLeadLevelId","Blood Lead Level",6,0
+415,2,9,"State x County x Age","AgeBandId","Age Group",3,0
+416,1,3,"State x Age","AgeBandId","Age Group",3,0
+416,1,45,"State x Blood Lead Level","BloodLeadLevelId","Blood Lead Level",6,0
+416,1,81,"State x Blood Lead Level x Age","AgeBandId","Age Group",3,0
+416,1,81,"State x Blood Lead Level x Age","BloodLeadLevelId","Blood Lead Level",6,0
+416,2,9,"State x County x Age","AgeBandId","Age Group",3,0
+418,1,3,"State x Age","AgeBandId","Age Group",3,0
+418,1,4,"State x Gender","GenderId","Gender",4,0
+418,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+420,1,3,"State x Age","AgeBandId","Age Group",3,0
+420,1,4,"State x Gender","GenderId","Gender",4,0
+420,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+422,1,3,"State x Age","AgeBandId","Age Group",3,0
+422,1,4,"State x Gender","GenderId","Gender",4,0
+422,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+423,2,82,"State x County x Temperature/Heat Index x Relative Threshold","RelativeThresholdId","Relative Threshold",22,0
+423,2,82,"State x County x Temperature/Heat Index x Relative Threshold","TemperatureHeatIndexId","Temperature/Heat Index",25,0
+423,2,83,"State x County x Temperature/Heat Index x Absolute Threshold","AbsoluteThresholdId","Absolute Threshold",23,0
+423,2,83,"State x County x Temperature/Heat Index x Absolute Threshold","TemperatureHeatIndexId","Temperature/Heat Index",25,0
+423,7,2194,"State x Census Tract x Temperature/Heat Index x Relative Threshold","RelativeThresholdId","Relative Threshold",22,0
+423,7,2194,"State x Census Tract x Temperature/Heat Index x Relative Threshold","TemperatureHeatIndexId","Temperature/Heat Index",25,0
+423,7,2195,"State x Census Tract x Temperature/Heat Index x Absolute Threshold","AbsoluteThresholdId","Absolute Threshold",23,0
+423,7,2195,"State x Census Tract x Temperature/Heat Index x Absolute Threshold","TemperatureHeatIndexId","Temperature/Heat Index",25,0
+424,2,82,"State x County x Temperature/Heat Index x Relative Threshold","RelativeThresholdId","Relative Threshold",22,0
+424,2,82,"State x County x Temperature/Heat Index x Relative Threshold","TemperatureHeatIndexId","Temperature/Heat Index",25,0
+424,2,83,"State x County x Temperature/Heat Index x Absolute Threshold","AbsoluteThresholdId","Absolute Threshold",23,0
+424,2,83,"State x County x Temperature/Heat Index x Absolute Threshold","TemperatureHeatIndexId","Temperature/Heat Index",25,0
+425,2,93,"State x County x Temperature/Heat Index x Relative Threshold x Duration Days","RelativeThresholdId","Relative Threshold",22,0
+425,2,93,"State x County x Temperature/Heat Index x Relative Threshold x Duration Days","DurationDaysId","Minimum Duration Days",24,0
+425,2,93,"State x County x Temperature/Heat Index x Relative Threshold x Duration Days","TemperatureHeatIndexId","Temperature/Heat Index",25,0
+425,2,94,"State x County x Temperature/Heat Index x Absolute Threshold x Duration Days","AbsoluteThresholdId","Absolute Threshold",23,0
+425,2,94,"State x County x Temperature/Heat Index x Absolute Threshold x Duration Days","DurationDaysId","Minimum Duration Days",24,0
+425,2,94,"State x County x Temperature/Heat Index x Absolute Threshold x Duration Days","TemperatureHeatIndexId","Temperature/Heat Index",25,0
+425,7,2196,"State x Census Tract x Temperature/Heat Index x Relative Threshold x Duration Days","RelativeThresholdId","Relative Threshold",22,0
+425,7,2196,"State x Census Tract x Temperature/Heat Index x Relative Threshold x Duration Days","DurationDaysId","Minimum Duration Days",24,0
+425,7,2196,"State x Census Tract x Temperature/Heat Index x Relative Threshold x Duration Days","TemperatureHeatIndexId","Temperature/Heat Index",25,0
+425,7,2197,"State x Census Tract x Temperature/Heat Index x Absolute Threshold x Duration Days","AbsoluteThresholdId","Absolute Threshold",23,0
+425,7,2197,"State x Census Tract x Temperature/Heat Index x Absolute Threshold x Duration Days","DurationDaysId","Minimum Duration Days",24,0
+425,7,2197,"State x Census Tract x Temperature/Heat Index x Absolute Threshold x Duration Days","TemperatureHeatIndexId","Temperature/Heat Index",25,0
+426,2,93,"State x County x Temperature/Heat Index x Relative Threshold x Duration Days","RelativeThresholdId","Relative Threshold",22,0
+426,2,93,"State x County x Temperature/Heat Index x Relative Threshold x Duration Days","DurationDaysId","Minimum Duration Days",24,0
+426,2,93,"State x County x Temperature/Heat Index x Relative Threshold x Duration Days","TemperatureHeatIndexId","Temperature/Heat Index",25,0
+426,2,94,"State x County x Temperature/Heat Index x Absolute Threshold x Duration Days","AbsoluteThresholdId","Absolute Threshold",23,0
+426,2,94,"State x County x Temperature/Heat Index x Absolute Threshold x Duration Days","DurationDaysId","Minimum Duration Days",24,0
+426,2,94,"State x County x Temperature/Heat Index x Absolute Threshold x Duration Days","TemperatureHeatIndexId","Temperature/Heat Index",25,0
+427,1,3,"State x Age","AgeBandId","Age Group",3,0
+427,1,5,"State x Race","RaceId","Race",1,0
+427,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+427,2,9,"State x County x Age","AgeBandId","Age Group",3,0
+427,2,11,"State x County x Race","RaceId","Race",1,0
+427,2,13,"State x County x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+428,1,3,"State x Age","AgeBandId","Age Group",3,0
+428,1,5,"State x Race","RaceId","Race",1,0
+428,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+428,2,9,"State x County x Age","AgeBandId","Age Group",3,0
+428,2,11,"State x County x Race","RaceId","Race",1,0
+428,2,13,"State x County x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+431,1,3,"State x Age","AgeBandId","Age Group",3,0
+431,1,4,"State x Gender","GenderId","Gender",4,0
+431,1,37,"State x Age x Gender","AgeBandId","Age Group",3,0
+431,1,37,"State x Age x Gender","GenderId","Gender",4,0
+432,1,3,"State x Age","AgeBandId","Age Group",3,0
+432,1,4,"State x Gender","GenderId","Gender",4,0
+432,1,37,"State x Age x Gender","AgeBandId","Age Group",3,0
+432,1,37,"State x Age x Gender","GenderId","Gender",4,0
+433,1,4,"State x Gender","GenderId","Gender",4,0
+434,1,3,"State x Age","AgeBandId","Age Group",3,0
+434,1,4,"State x Gender","GenderId","Gender",4,0
+434,1,37,"State x Age x Gender","AgeBandId","Age Group",3,0
+434,1,37,"State x Age x Gender","GenderId","Gender",4,0
+436,1,3,"State x Age","AgeBandId","Age Group",3,0
+436,1,4,"State x Gender","GenderId","Gender",4,0
+436,1,37,"State x Age x Gender","AgeBandId","Age Group",3,0
+436,1,37,"State x Age x Gender","GenderId","Gender",4,0
+436,2,9,"State x County x Age","AgeBandId","Age Group",3,1
+436,2,10,"State x County x Gender","GenderId","Gender",4,1
+436,2,52,"State x County x Age x Gender","AgeBandId","Age Group",3,1
+436,2,52,"State x County x Age x Gender","GenderId","Gender",4,1
+437,1,4,"State x Gender","GenderId","Gender",4,0
+437,2,10,"State x County x Gender","GenderId","Gender",4,1
+438,1,3,"State x Age","AgeBandId","Age Group",3,0
+438,1,4,"State x Gender","GenderId","Gender",4,0
+438,1,37,"State x Age x Gender","AgeBandId","Age Group",3,0
+438,1,37,"State x Age x Gender","GenderId","Gender",4,0
+439,1,3,"State x Age","AgeBandId","Age Group",3,0
+439,1,4,"State x Gender","GenderId","Gender",4,0
+439,1,37,"State x Age x Gender","AgeBandId","Age Group",3,0
+439,1,37,"State x Age x Gender","GenderId","Gender",4,0
+440,1,4,"State x Gender","GenderId","Gender",4,0
+477,1,95,"State x Pollutant","PollutantId","Pollutant",26,0
+477,2,97,"State x County x Pollutant","PollutantId","Pollutant",26,0
+478,1,95,"State x Pollutant","PollutantId","Pollutant",26,0
+478,2,97,"State x County x Pollutant","PollutantId","Pollutant",26,0
+479,1,96,"State x Pollutant x Source","PollutantId","Pollutant",26,0
+479,1,96,"State x Pollutant x Source","SourceId","Source",27,0
+479,2,99,"State x County x Pollutant x Source","PollutantId","Pollutant",26,0
+479,2,99,"State x County x Pollutant x Source","SourceId","Source",27,0
+480,1,96,"State x Pollutant x Source","PollutantId","Pollutant",26,0
+480,1,96,"State x Pollutant x Source","SourceId","Source",27,0
+480,2,99,"State x County x Pollutant x Source","PollutantId","Pollutant",26,0
+480,2,99,"State x County x Pollutant x Source","SourceId","Source",27,0
+481,1,4,"State x Gender","GenderId","Gender",4,0
+481,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+481,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+481,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+482,1,4,"State x Gender","GenderId","Gender",4,0
+482,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+482,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+482,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+482,2,10,"State x County x Gender","GenderId","Gender",4,0
+482,2,13,"State x County x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+483,1,4,"State x Gender","GenderId","Gender",4,0
+483,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+483,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+483,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+484,1,4,"State x Gender","GenderId","Gender",4,0
+484,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+484,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+484,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+484,2,10,"State x County x Gender","GenderId","Gender",4,1
+484,2,13,"State x County x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,1
+485,1,4,"State x Gender","GenderId","Gender",4,0
+485,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+485,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+485,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+486,1,4,"State x Gender","GenderId","Gender",4,0
+486,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+486,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+486,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+486,2,10,"State x County x Gender","GenderId","Gender",4,0
+486,2,13,"State x County x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+487,1,4,"State x Gender","GenderId","Gender",4,0
+487,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+487,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+487,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+488,1,4,"State x Gender","GenderId","Gender",4,0
+488,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+488,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+488,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+488,2,10,"State x County x Gender","GenderId","Gender",4,1
+488,2,13,"State x County x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,1
+489,1,4,"State x Gender","GenderId","Gender",4,0
+489,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+489,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+489,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+490,1,4,"State x Gender","GenderId","Gender",4,0
+490,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+490,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+490,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+490,2,10,"State x County x Gender","GenderId","Gender",4,0
+490,2,13,"State x County x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+491,1,4,"State x Gender","GenderId","Gender",4,0
+491,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+491,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+491,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+492,1,4,"State x Gender","GenderId","Gender",4,0
+492,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+492,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+492,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+492,2,10,"State x County x Gender","GenderId","Gender",4,1
+492,2,13,"State x County x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,1
+493,1,4,"State x Gender","GenderId","Gender",4,0
+493,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+493,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+493,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+494,1,4,"State x Gender","GenderId","Gender",4,0
+494,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+494,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+494,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+494,2,10,"State x County x Gender","GenderId","Gender",4,0
+494,2,13,"State x County x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+495,1,4,"State x Gender","GenderId","Gender",4,0
+495,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+495,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+495,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+496,1,4,"State x Gender","GenderId","Gender",4,0
+496,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+496,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+496,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+496,2,10,"State x County x Gender","GenderId","Gender",4,1
+496,2,13,"State x County x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,1
+497,1,103,"State x Confirmed Status","ConfirmedStatusId","Confirmed Status",30,0
+497,1,152,"State x Age x Confirmed Status","AgeBandId","Age Group",3,0
+497,1,152,"State x Age x Confirmed Status","ConfirmedStatusId","Confirmed Status",30,0
+497,2,104,"State x County x Confirmed Status","ConfirmedStatusId","Confirmed Status",30,0
+497,2,153,"State x County x Age x Confirmed Status","AgeBandId","Age Group",3,0
+497,2,153,"State x County x Age x Confirmed Status","ConfirmedStatusId","Confirmed Status",30,0
+498,1,103,"State x Confirmed Status","ConfirmedStatusId","Confirmed Status",30,0
+498,1,152,"State x Age x Confirmed Status","AgeBandId","Age Group",3,0
+498,1,152,"State x Age x Confirmed Status","ConfirmedStatusId","Confirmed Status",30,0
+498,2,104,"State x County x Confirmed Status","ConfirmedStatusId","Confirmed Status",30,0
+498,2,153,"State x County x Age x Confirmed Status","AgeBandId","Age Group",3,0
+498,2,153,"State x County x Age x Confirmed Status","ConfirmedStatusId","Confirmed Status",30,0
+499,1,103,"State x Confirmed Status","ConfirmedStatusId","Confirmed Status",30,0
+499,2,104,"State x County x Confirmed Status","ConfirmedStatusId","Confirmed Status",30,0
+500,1,103,"State x Confirmed Status","ConfirmedStatusId","Confirmed Status",30,0
+500,2,104,"State x County x Confirmed Status","ConfirmedStatusId","Confirmed Status",30,0
+501,2,66,"State x County x Reduction Rate","ReductionRateId","Reduction Percent",15,0
+501,2,67,"State x County x Reduction Rate x Percent GT 65","PopulationGT65Id","Percent of Population Over 65",10,0
+501,2,67,"State x County x Reduction Rate x Percent GT 65","ReductionRateId","Reduction Percent",15,0
+501,2,68,"State x County x Reduction Rate x Percent Poverty","PopulationPovertyId","Percent of Population in Poverty",11,0
+501,2,68,"State x County x Reduction Rate x Percent Poverty","ReductionRateId","Reduction Percent",15,0
+501,2,69,"State x County x Reduction Rate x Percent Uninsured","PopulationUninsuredId","Percent of Population (under 65) Uninsured",12,0
+501,2,69,"State x County x Reduction Rate x Percent Uninsured","ReductionRateId","Reduction Percent",15,0
+501,2,71,"State x County x Reduction Rate x Population Density","PopulationDensityId","Population Density",14,0
+501,2,71,"State x County x Reduction Rate x Population Density","ReductionRateId","Reduction Percent",15,0
+501,2,72,"State x County x Reduction Rate x Percent Smoking","ReductionRateId","Reduction Percent",15,0
+501,2,72,"State x County x Reduction Rate x Percent Smoking","PopulationSmokingId","Percent of Adult Smokers",17,0
+501,2,107,"State x County x Reduction Rate x Adult Obesity Prevalence","ReductionRateId","Reduction Percent",15,0
+501,2,107,"State x County x Reduction Rate x Adult Obesity Prevalence","PopulationObesityId","Adult Obesity Prevalence",32,0
+501,2,108,"State x County x Reduction Rate x Physical Inactivity Prevalence","ReductionRateId","Reduction Percent",15,0
+501,2,108,"State x County x Reduction Rate x Physical Inactivity Prevalence","PopulationPhysicalInactiveId","Physical Inactivity Prevalence",33,0
+501,2,110,"State x County x Reduction Rate x Diabetes Prevalence","ReductionRateId","Reduction Percent",15,0
+501,2,110,"State x County x Reduction Rate x Diabetes Prevalence","PopulationDiabetesId","Diabetes Prevalence",34,0
+502,2,66,"State x County x Reduction Rate","ReductionRateId","Reduction Percent",15,0
+502,2,67,"State x County x Reduction Rate x Percent GT 65","PopulationGT65Id","Percent of Population Over 65",10,0
+502,2,67,"State x County x Reduction Rate x Percent GT 65","ReductionRateId","Reduction Percent",15,0
+502,2,68,"State x County x Reduction Rate x Percent Poverty","PopulationPovertyId","Percent of Population in Poverty",11,0
+502,2,68,"State x County x Reduction Rate x Percent Poverty","ReductionRateId","Reduction Percent",15,0
+502,2,69,"State x County x Reduction Rate x Percent Uninsured","PopulationUninsuredId","Percent of Population (under 65) Uninsured",12,0
+502,2,69,"State x County x Reduction Rate x Percent Uninsured","ReductionRateId","Reduction Percent",15,0
+502,2,71,"State x County x Reduction Rate x Population Density","PopulationDensityId","Population Density",14,0
+502,2,71,"State x County x Reduction Rate x Population Density","ReductionRateId","Reduction Percent",15,0
+502,2,72,"State x County x Reduction Rate x Percent Smoking","ReductionRateId","Reduction Percent",15,0
+502,2,72,"State x County x Reduction Rate x Percent Smoking","PopulationSmokingId","Percent of Adult Smokers",17,0
+502,2,107,"State x County x Reduction Rate x Adult Obesity Prevalence","ReductionRateId","Reduction Percent",15,0
+502,2,107,"State x County x Reduction Rate x Adult Obesity Prevalence","PopulationObesityId","Adult Obesity Prevalence",32,0
+502,2,108,"State x County x Reduction Rate x Physical Inactivity Prevalence","ReductionRateId","Reduction Percent",15,0
+502,2,108,"State x County x Reduction Rate x Physical Inactivity Prevalence","PopulationPhysicalInactiveId","Physical Inactivity Prevalence",33,0
+502,2,110,"State x County x Reduction Rate x Diabetes Prevalence","ReductionRateId","Reduction Percent",15,0
+502,2,110,"State x County x Reduction Rate x Diabetes Prevalence","PopulationDiabetesId","Diabetes Prevalence",34,0
+503,2,66,"State x County x Reduction Rate","ReductionRateId","Reduction Percent",15,0
+503,2,67,"State x County x Reduction Rate x Percent GT 65","PopulationGT65Id","Percent of Population Over 65",10,0
+503,2,67,"State x County x Reduction Rate x Percent GT 65","ReductionRateId","Reduction Percent",15,0
+503,2,68,"State x County x Reduction Rate x Percent Poverty","PopulationPovertyId","Percent of Population in Poverty",11,0
+503,2,68,"State x County x Reduction Rate x Percent Poverty","ReductionRateId","Reduction Percent",15,0
+503,2,69,"State x County x Reduction Rate x Percent Uninsured","PopulationUninsuredId","Percent of Population (under 65) Uninsured",12,0
+503,2,69,"State x County x Reduction Rate x Percent Uninsured","ReductionRateId","Reduction Percent",15,0
+503,2,71,"State x County x Reduction Rate x Population Density","PopulationDensityId","Population Density",14,0
+503,2,71,"State x County x Reduction Rate x Population Density","ReductionRateId","Reduction Percent",15,0
+503,2,72,"State x County x Reduction Rate x Percent Smoking","ReductionRateId","Reduction Percent",15,0
+503,2,72,"State x County x Reduction Rate x Percent Smoking","PopulationSmokingId","Percent of Adult Smokers",17,0
+503,2,107,"State x County x Reduction Rate x Adult Obesity Prevalence","ReductionRateId","Reduction Percent",15,0
+503,2,107,"State x County x Reduction Rate x Adult Obesity Prevalence","PopulationObesityId","Adult Obesity Prevalence",32,0
+503,2,108,"State x County x Reduction Rate x Physical Inactivity Prevalence","ReductionRateId","Reduction Percent",15,0
+503,2,108,"State x County x Reduction Rate x Physical Inactivity Prevalence","PopulationPhysicalInactiveId","Physical Inactivity Prevalence",33,0
+503,2,110,"State x County x Reduction Rate x Diabetes Prevalence","ReductionRateId","Reduction Percent",15,0
+503,2,110,"State x County x Reduction Rate x Diabetes Prevalence","PopulationDiabetesId","Diabetes Prevalence",34,0
+505,1,3,"State x Age","AgeBandId","Age Group",3,0
+505,1,4,"State x Gender","GenderId","Gender",4,0
+505,1,37,"State x Age x Gender","AgeBandId","Age Group",3,0
+505,1,37,"State x Age x Gender","GenderId","Gender",4,0
+505,1,116,"State x Gender x ExposureSite","GenderId","Gender",4,0
+505,1,116,"State x Gender x ExposureSite","ExposureSiteId","Exposure Site",36,0
+505,1,117,"State x ExposureReason","ExposureReasonId","Exposure Reason",37,0
+505,1,119,"State x Exposure Site","ExposureSiteId","Exposure Site",36,0
+506,1,3,"State x Age","AgeBandId","Age Group",3,0
+506,1,4,"State x Gender","GenderId","Gender",4,0
+506,1,37,"State x Age x Gender","AgeBandId","Age Group",3,0
+506,1,37,"State x Age x Gender","GenderId","Gender",4,0
+506,1,116,"State x Gender x ExposureSite","GenderId","Gender",4,0
+506,1,116,"State x Gender x ExposureSite","ExposureSiteId","Exposure Site",36,0
+506,1,117,"State x ExposureReason","ExposureReasonId","Exposure Reason",37,0
+506,1,119,"State x Exposure Site","ExposureSiteId","Exposure Site",36,0
+507,1,3,"State x Age","AgeBandId","Age Group",3,0
+507,1,4,"State x Gender","GenderId","Gender",4,0
+508,1,3,"State x Age","AgeBandId","Age Group",3,0
+508,1,4,"State x Gender","GenderId","Gender",4,0
+509,1,3,"State x Age","AgeBandId","Age Group",3,0
+509,1,4,"State x Gender","GenderId","Gender",4,0
+510,1,3,"State x Age","AgeBandId","Age Group",3,0
+510,1,4,"State x Gender","GenderId","Gender",4,0
+511,1,3,"State x Age","AgeBandId","Age Group",3,0
+511,1,4,"State x Gender","GenderId","Gender",4,0
+512,1,3,"State x Age","AgeBandId","Age Group",3,0
+512,1,4,"State x Gender","GenderId","Gender",4,0
+513,1,3,"State x Age","AgeBandId","Age Group",3,0
+513,1,4,"State x Gender","GenderId","Gender",4,0
+513,1,118,"State x SubCategory","SubCategoryId","SubCategory",38,0
+514,1,3,"State x Age","AgeBandId","Age Group",3,0
+514,1,4,"State x Gender","GenderId","Gender",4,0
+514,1,118,"State x SubCategory","SubCategoryId","SubCategory",38,0
+515,1,3,"State x Age","AgeBandId","Age Group",3,0
+515,1,4,"State x Gender","GenderId","Gender",4,0
+515,1,118,"State x SubCategory","SubCategoryId","SubCategory",38,0
+516,1,3,"State x Age","AgeBandId","Age Group",3,0
+516,1,4,"State x Gender","GenderId","Gender",4,0
+516,1,118,"State x SubCategory","SubCategoryId","SubCategory",38,0
+517,1,3,"State x Age","AgeBandId","Age Group",3,0
+517,1,4,"State x Gender","GenderId","Gender",4,0
+517,1,118,"State x SubCategory","SubCategoryId","SubCategory",38,0
+518,1,3,"State x Age","AgeBandId","Age Group",3,0
+518,1,4,"State x Gender","GenderId","Gender",4,0
+518,1,118,"State x SubCategory","SubCategoryId","SubCategory",38,0
+519,1,3,"State x Age","AgeBandId","Age Group",3,0
+519,1,4,"State x Gender","GenderId","Gender",4,0
+520,1,3,"State x Age","AgeBandId","Age Group",3,0
+520,1,4,"State x Gender","GenderId","Gender",4,0
+523,1,3,"State x Age","AgeBandId","Age Group",3,0
+523,1,4,"State x Gender","GenderId","Gender",4,0
+523,1,117,"State x ExposureReason","ExposureReasonId","Exposure Reason",37,0
+523,1,119,"State x Exposure Site","ExposureSiteId","Exposure Site",36,0
+525,1,3,"State x Age","AgeBandId","Age Group",3,0
+525,1,4,"State x Gender","GenderId","Gender",4,0
+525,1,117,"State x ExposureReason","ExposureReasonId","Exposure Reason",37,0
+525,1,119,"State x Exposure Site","ExposureSiteId","Exposure Site",36,0
+526,1,3,"State x Age","AgeBandId","Age Group",3,0
+526,1,4,"State x Gender","GenderId","Gender",4,0
+526,1,117,"State x ExposureReason","ExposureReasonId","Exposure Reason",37,0
+526,1,119,"State x Exposure Site","ExposureSiteId","Exposure Site",36,0
+527,1,3,"State x Age","AgeBandId","Age Group",3,0
+527,1,4,"State x Gender","GenderId","Gender",4,0
+527,1,117,"State x ExposureReason","ExposureReasonId","Exposure Reason",37,0
+527,1,119,"State x Exposure Site","ExposureSiteId","Exposure Site",36,0
+528,1,3,"State x Age","AgeBandId","Age Group",3,0
+528,1,4,"State x Gender","GenderId","Gender",4,0
+528,1,117,"State x ExposureReason","ExposureReasonId","Exposure Reason",37,0
+528,1,119,"State x Exposure Site","ExposureSiteId","Exposure Site",36,0
+529,1,3,"State x Age","AgeBandId","Age Group",3,0
+529,1,4,"State x Gender","GenderId","Gender",4,0
+529,1,117,"State x ExposureReason","ExposureReasonId","Exposure Reason",37,0
+529,1,119,"State x Exposure Site","ExposureSiteId","Exposure Site",36,0
+530,1,3,"State x Age","AgeBandId","Age Group",3,0
+530,1,4,"State x Gender","GenderId","Gender",4,0
+530,1,117,"State x ExposureReason","ExposureReasonId","Exposure Reason",37,0
+530,1,119,"State x Exposure Site","ExposureSiteId","Exposure Site",36,0
+531,1,3,"State x Age","AgeBandId","Age Group",3,0
+531,1,4,"State x Gender","GenderId","Gender",4,0
+531,1,117,"State x ExposureReason","ExposureReasonId","Exposure Reason",37,0
+531,1,119,"State x Exposure Site","ExposureSiteId","Exposure Site",36,0
+532,1,3,"State x Age","AgeBandId","Age Group",3,0
+532,1,4,"State x Gender","GenderId","Gender",4,0
+532,1,117,"State x ExposureReason","ExposureReasonId","Exposure Reason",37,0
+532,1,119,"State x Exposure Site","ExposureSiteId","Exposure Site",36,0
+533,2,114,"State x County x Emissions Scenario x Absolute Threshold","AbsoluteThresholdId","Absolute Threshold",23,0
+533,2,114,"State x County x Emissions Scenario x Absolute Threshold","ScenarioId","Emmissions Scenario",35,0
+533,2,115,"State x County x Emissions Scenario x Relative Threshold","RelativeThresholdId","Relative Threshold",22,0
+533,2,115,"State x County x Emissions Scenario x Relative Threshold","ScenarioId","Emmissions Scenario",35,0
+536,2,114,"State x County x Emissions Scenario x Absolute Threshold","AbsoluteThresholdId","Absolute Threshold",23,0
+536,2,114,"State x County x Emissions Scenario x Absolute Threshold","ScenarioId","Emmissions Scenario",35,0
+536,2,115,"State x County x Emissions Scenario x Relative Threshold","RelativeThresholdId","Relative Threshold",22,0
+536,2,115,"State x County x Emissions Scenario x Relative Threshold","ScenarioId","Emmissions Scenario",35,0
+539,1,5,"State x Race","RaceId","Race",1,0
+539,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+539,2,11,"State x County x Race","RaceId","Race",1,0
+539,2,13,"State x County x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+540,1,3,"State x Age","AgeBandId","Age Group",3,0
+540,1,4,"State x Gender","GenderId","Gender",4,0
+540,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+541,1,3,"State x Age","AgeBandId","Age Group",3,0
+541,1,4,"State x Gender","GenderId","Gender",4,0
+541,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+549,1,3,"State x Age","AgeBandId","Age Group",3,0
+549,1,4,"State x Gender","GenderId","Gender",4,0
+549,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+550,1,3,"State x Age","AgeBandId","Age Group",3,0
+550,1,4,"State x Gender","GenderId","Gender",4,0
+550,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+550,2,9,"State x County x Age","AgeBandId","Age Group",3,1
+550,2,10,"State x County x Gender","GenderId","Gender",4,1
+550,2,13,"State x County x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,1
+551,1,4,"State x Gender","GenderId","Gender",4,0
+551,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+551,2,10,"State x County x Gender","GenderId","Gender",4,1
+551,2,13,"State x County x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,1
+552,1,3,"State x Age","AgeBandId","Age Group",3,0
+552,1,4,"State x Gender","GenderId","Gender",4,0
+552,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+553,1,3,"State x Age","AgeBandId","Age Group",3,0
+553,1,4,"State x Gender","GenderId","Gender",4,0
+553,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+553,2,9,"State x County x Age","AgeBandId","Age Group",3,1
+553,2,10,"State x County x Gender","GenderId","Gender",4,1
+553,2,13,"State x County x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,1
+554,1,4,"State x Gender","GenderId","Gender",4,0
+554,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+554,2,10,"State x County x Gender","GenderId","Gender",4,1
+554,2,13,"State x County x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,1
+555,1,121,"State x Health Impact","HealthImpactId","Health Impact",39,0
+555,1,122,"State x Incident Type","IncidentTypeId","Incident Type",40,0
+555,1,123,"State x Primary Contributing Factor","PrimaryContributingFactorId","Primary Contributing Factor",41,0
+555,1,124,"State x Area Type","AreaTypeId","Area Type",42,0
+555,1,125,"State x Release Type","ReleaseTypeId","Release Type",43,0
+555,1,126,"State x Evacuation Ordered","EvacuationOrderedId","Evacuation Ordered",44,0
+555,2,127,"State x County x Health Impact","HealthImpactId","Health Impact",39,0
+555,2,128,"State x County x Incident Type","IncidentTypeId","Incident Type",40,0
+555,2,129,"State x County x Primary Contributing Factor","PrimaryContributingFactorId","Primary Contributing Factor",41,0
+555,2,130,"State x County x Area Type","AreaTypeId","Area Type",42,0
+555,2,131,"State x County x Release Type","ReleaseTypeId","Release Type",43,0
+555,2,132,"State x County x Evacuation Ordered","EvacuationOrderedId","Evacuation Ordered",44,0
+556,1,122,"State x Incident Type","IncidentTypeId","Incident Type",40,0
+556,1,123,"State x Primary Contributing Factor","PrimaryContributingFactorId","Primary Contributing Factor",41,0
+556,1,124,"State x Area Type","AreaTypeId","Area Type",42,0
+556,1,125,"State x Release Type","ReleaseTypeId","Release Type",43,0
+556,1,126,"State x Evacuation Ordered","EvacuationOrderedId","Evacuation Ordered",44,0
+556,2,128,"State x County x Incident Type","IncidentTypeId","Incident Type",40,0
+556,2,129,"State x County x Primary Contributing Factor","PrimaryContributingFactorId","Primary Contributing Factor",41,0
+556,2,130,"State x County x Area Type","AreaTypeId","Area Type",42,0
+556,2,131,"State x County x Release Type","ReleaseTypeId","Release Type",43,0
+556,2,132,"State x County x Evacuation Ordered","EvacuationOrderedId","Evacuation Ordered",44,0
+557,1,121,"State x Health Impact","HealthImpactId","Health Impact",39,0
+557,1,122,"State x Incident Type","IncidentTypeId","Incident Type",40,0
+557,1,123,"State x Primary Contributing Factor","PrimaryContributingFactorId","Primary Contributing Factor",41,0
+557,1,124,"State x Area Type","AreaTypeId","Area Type",42,0
+557,1,125,"State x Release Type","ReleaseTypeId","Release Type",43,0
+557,2,127,"State x County x Health Impact","HealthImpactId","Health Impact",39,0
+557,2,128,"State x County x Incident Type","IncidentTypeId","Incident Type",40,0
+557,2,129,"State x County x Primary Contributing Factor","PrimaryContributingFactorId","Primary Contributing Factor",41,0
+557,2,130,"State x County x Area Type","AreaTypeId","Area Type",42,0
+557,2,131,"State x County x Release Type","ReleaseTypeId","Release Type",43,0
+558,1,122,"State x Incident Type","IncidentTypeId","Incident Type",40,0
+558,1,123,"State x Primary Contributing Factor","PrimaryContributingFactorId","Primary Contributing Factor",41,0
+558,1,124,"State x Area Type","AreaTypeId","Area Type",42,0
+558,1,125,"State x Release Type","ReleaseTypeId","Release Type",43,0
+558,1,126,"State x Evacuation Ordered","EvacuationOrderedId","Evacuation Ordered",44,0
+558,2,128,"State x County x Incident Type","IncidentTypeId","Incident Type",40,0
+558,2,129,"State x County x Primary Contributing Factor","PrimaryContributingFactorId","Primary Contributing Factor",41,0
+558,2,130,"State x County x Area Type","AreaTypeId","Area Type",42,0
+558,2,131,"State x County x Release Type","ReleaseTypeId","Release Type",43,0
+558,2,132,"State x County x Evacuation Ordered","EvacuationOrderedId","Evacuation Ordered",44,0
+559,1,121,"State x Health Impact","HealthImpactId","Health Impact",39,0
+559,1,122,"State x Incident Type","IncidentTypeId","Incident Type",40,0
+559,1,123,"State x Primary Contributing Factor","PrimaryContributingFactorId","Primary Contributing Factor",41,0
+559,1,124,"State x Area Type","AreaTypeId","Area Type",42,0
+559,1,125,"State x Release Type","ReleaseTypeId","Release Type",43,0
+559,1,126,"State x Evacuation Ordered","EvacuationOrderedId","Evacuation Ordered",44,0
+559,2,127,"State x County x Health Impact","HealthImpactId","Health Impact",39,0
+559,2,128,"State x County x Incident Type","IncidentTypeId","Incident Type",40,0
+559,2,129,"State x County x Primary Contributing Factor","PrimaryContributingFactorId","Primary Contributing Factor",41,0
+559,2,130,"State x County x Area Type","AreaTypeId","Area Type",42,0
+559,2,131,"State x County x Release Type","ReleaseTypeId","Release Type",43,0
+559,2,132,"State x County x Evacuation Ordered","EvacuationOrderedId","Evacuation Ordered",44,0
+560,1,3,"State x Age","AgeBandId","Age Group",3,0
+560,1,4,"State x Gender","GenderId","Gender",4,0
+560,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+561,1,3,"State x Age","AgeBandId","Age Group",3,0
+561,1,4,"State x Gender","GenderId","Gender",4,0
+561,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+562,1,3,"State x Age","AgeBandId","Age Group",3,0
+562,1,4,"State x Gender","GenderId","Gender",4,0
+562,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+563,1,3,"State x Age","AgeBandId","Age Group",3,0
+563,1,4,"State x Gender","GenderId","Gender",4,0
+563,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+564,1,3,"State x Age","AgeBandId","Age Group",3,0
+564,1,4,"State x Gender","GenderId","Gender",4,0
+564,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+570,2,2219,"State x County x Hospital Service","HospServicesId","Hospital Services",1068,0
+571,2,2219,"State x County x Hospital Service","HospServicesId","Hospital Services",1068,0
+573,1,44,"State x Cause","CauseId","Cause",5,0
+574,1,44,"State x Cause","CauseId","Cause",5,0
+575,1,44,"State x Cause","CauseId","Cause",5,0
+576,2,135,"State x County x Absolute Threshold","AbsoluteThresholdId","Absolute Threshold",23,0
+576,2,136,"State x County x Relative Threshold","RelativeThresholdId","Relative Threshold",22,0
+576,7,2191,"State x Census Tractx Absolute Threshold","AbsoluteThresholdId","Absolute Threshold",23,0
+576,7,2193,"State x Census Tract x Relative Threshold","RelativeThresholdId","Relative Threshold",22,0
+578,2,114,"State x County x Emissions Scenario x Absolute Threshold","AbsoluteThresholdId","Absolute Threshold",23,0
+578,2,114,"State x County x Emissions Scenario x Absolute Threshold","ScenarioId","Emmissions Scenario",35,0
+578,2,115,"State x County x Emissions Scenario x Relative Threshold","RelativeThresholdId","Relative Threshold",22,0
+578,2,115,"State x County x Emissions Scenario x Relative Threshold","ScenarioId","Emmissions Scenario",35,0
+579,2,134,"State x County x Emissions Scenario","ScenarioId","Emmissions Scenario",35,0
+580,2,134,"State x County x Emissions Scenario","ScenarioId","Emmissions Scenario",35,0
+585,1,3,"State x Age","AgeBandId","Age Group",3,0
+585,1,4,"State x Gender","GenderId","Gender",4,0
+585,1,5,"State x Race","RaceId","Race",1,0
+585,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+586,1,3,"State x Age","AgeBandId","Age Group",3,0
+586,1,4,"State x Gender","GenderId","Gender",4,0
+586,1,5,"State x Race","RaceId","Race",1,0
+586,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+587,1,3,"State x Age","AgeBandId","Age Group",3,0
+587,1,4,"State x Gender","GenderId","Gender",4,0
+587,1,5,"State x Race","RaceId","Race",1,0
+587,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+588,1,3,"State x Age","AgeBandId","Age Group",3,0
+588,1,4,"State x Gender","GenderId","Gender",4,0
+588,1,5,"State x Race","RaceId","Race",1,0
+588,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+621,2,178,"State x County x Land Type","LandTypeId","Land Type",52,0
+621,7,179,"State x Census Tract x Land Type","LandTypeId","Land Type",52,0
+645,1,3,"State x Age","AgeBandId","Age Group",3,0
+645,1,4,"State x Gender","GenderId","Gender",4,0
+645,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+645,1,37,"State x Age x Gender","AgeBandId","Age Group",3,0
+645,1,37,"State x Age x Gender","GenderId","Gender",4,0
+645,1,42,"State x Age x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+645,1,42,"State x Age x Race/Ethnicity","AgeBandId","Age Group",3,0
+645,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+645,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+645,1,133,"State x Age x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+645,1,133,"State x Age x Gender x Race/Ethnicity","AgeBandId","Age Group",3,0
+645,1,133,"State x Age x Gender x Race/Ethnicity","GenderId","Gender",4,0
+645,2,9,"State x County x Age","AgeBandId","Age Group",3,0
+645,2,10,"State x County x Gender","GenderId","Gender",4,0
+645,2,13,"State x County x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+645,2,52,"State x County x Age x Gender","AgeBandId","Age Group",3,0
+645,2,52,"State x County x Age x Gender","GenderId","Gender",4,0
+645,2,57,"State x County x Age x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+645,2,57,"State x County x Age x Race/Ethnicity","AgeBandId","Age Group",3,0
+645,2,58,"State x County x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+645,2,58,"State x County x Gender x Race/Ethnicity","GenderId","Gender",4,0
+645,2,149,"State x County x Age x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+645,2,149,"State x County x Age x Gender x Race/Ethnicity","AgeBandId","Age Group",3,0
+645,2,149,"State x County x Age x Gender x Race/Ethnicity","GenderId","Gender",4,0
+645,7,138,"State x Census Tract x Age","AgeBandId","Age Group",3,0
+645,7,139,"State x Census Tract x Gender","GenderId","Gender",4,0
+645,7,140,"State x Census Tract x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+645,10,2222,"State x 5k x Age","AgeBandId","Age Group",3,0
+645,10,2223,"State x 5k x Gender","GenderId","Gender",4,0
+645,10,2224,"State x 5k x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+645,12,2225,"State x 20k x Age","AgeBandId","Age Group",3,0
+645,12,2226,"State x 20k x Gender","GenderId","Gender",4,0
+645,12,2227,"State x 20k x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+647,1,3,"State x Age","AgeBandId","Age Group",3,0
+647,1,4,"State x Gender","GenderId","Gender",4,0
+647,1,37,"State x Age x Gender","AgeBandId","Age Group",3,0
+647,1,37,"State x Age x Gender","GenderId","Gender",4,0
+648,1,3,"State x Age","AgeBandId","Age Group",3,0
+648,1,4,"State x Gender","GenderId","Gender",4,0
+648,1,37,"State x Age x Gender","AgeBandId","Age Group",3,0
+648,1,37,"State x Age x Gender","GenderId","Gender",4,0
+648,2,9,"State x County x Age","AgeBandId","Age Group",3,1
+648,2,10,"State x County x Gender","GenderId","Gender",4,1
+648,2,52,"State x County x Age x Gender","AgeBandId","Age Group",3,1
+648,2,52,"State x County x Age x Gender","GenderId","Gender",4,1
+649,1,4,"State x Gender","GenderId","Gender",4,0
+649,2,10,"State x County x Gender","GenderId","Gender",4,1
+650,1,3,"State x Age","AgeBandId","Age Group",3,0
+650,1,4,"State x Gender","GenderId","Gender",4,0
+650,1,37,"State x Age x Gender","AgeBandId","Age Group",3,0
+650,1,37,"State x Age x Gender","GenderId","Gender",4,0
+651,1,3,"State x Age","AgeBandId","Age Group",3,0
+651,1,4,"State x Gender","GenderId","Gender",4,0
+651,1,37,"State x Age x Gender","AgeBandId","Age Group",3,0
+651,1,37,"State x Age x Gender","GenderId","Gender",4,0
+651,2,9,"State x County x Age","AgeBandId","Age Group",3,1
+651,2,10,"State x County x Gender","GenderId","Gender",4,1
+651,2,52,"State x County x Age x Gender","AgeBandId","Age Group",3,1
+651,2,52,"State x County x Age x Gender","GenderId","Gender",4,1
+652,1,4,"State x Gender","GenderId","Gender",4,0
+652,2,10,"State x County x Gender","GenderId","Gender",4,1
+653,1,3,"State x Age","AgeBandId","Age Group",3,0
+653,1,4,"State x Gender","GenderId","Gender",4,0
+653,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+653,1,37,"State x Age x Gender","AgeBandId","Age Group",3,0
+653,1,37,"State x Age x Gender","GenderId","Gender",4,0
+653,1,42,"State x Age x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+653,1,42,"State x Age x Race/Ethnicity","AgeBandId","Age Group",3,0
+653,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+653,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+653,1,133,"State x Age x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+653,1,133,"State x Age x Gender x Race/Ethnicity","AgeBandId","Age Group",3,0
+653,1,133,"State x Age x Gender x Race/Ethnicity","GenderId","Gender",4,0
+653,2,9,"State x County x Age","AgeBandId","Age Group",3,0
+653,2,10,"State x County x Gender","GenderId","Gender",4,0
+653,2,13,"State x County x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+654,1,3,"State x Age","AgeBandId","Age Group",3,0
+654,1,4,"State x Gender","GenderId","Gender",4,0
+654,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+654,1,37,"State x Age x Gender","AgeBandId","Age Group",3,0
+654,1,37,"State x Age x Gender","GenderId","Gender",4,0
+654,1,42,"State x Age x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+654,1,42,"State x Age x Race/Ethnicity","AgeBandId","Age Group",3,0
+654,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+654,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+654,1,133,"State x Age x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+654,1,133,"State x Age x Gender x Race/Ethnicity","AgeBandId","Age Group",3,0
+654,1,133,"State x Age x Gender x Race/Ethnicity","GenderId","Gender",4,0
+654,2,9,"State x County x Age","AgeBandId","Age Group",3,0
+654,2,10,"State x County x Gender","GenderId","Gender",4,0
+654,2,13,"State x County x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+655,1,3,"State x Age","AgeBandId","Age Group",3,0
+655,1,4,"State x Gender","GenderId","Gender",4,0
+655,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+655,1,37,"State x Age x Gender","AgeBandId","Age Group",3,0
+655,1,37,"State x Age x Gender","GenderId","Gender",4,0
+655,1,42,"State x Age x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+655,1,42,"State x Age x Race/Ethnicity","AgeBandId","Age Group",3,0
+655,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+655,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+655,1,133,"State x Age x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+655,1,133,"State x Age x Gender x Race/Ethnicity","AgeBandId","Age Group",3,0
+655,1,133,"State x Age x Gender x Race/Ethnicity","GenderId","Gender",4,0
+655,2,9,"State x County x Age","AgeBandId","Age Group",3,0
+655,2,10,"State x County x Gender","GenderId","Gender",4,0
+655,2,13,"State x County x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+656,1,3,"State x Age","AgeBandId","Age Group",3,0
+656,1,4,"State x Gender","GenderId","Gender",4,0
+656,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+656,1,37,"State x Age x Gender","AgeBandId","Age Group",3,0
+656,1,37,"State x Age x Gender","GenderId","Gender",4,0
+656,1,42,"State x Age x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+656,1,42,"State x Age x Race/Ethnicity","AgeBandId","Age Group",3,0
+656,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+656,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+656,1,133,"State x Age x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+656,1,133,"State x Age x Gender x Race/Ethnicity","AgeBandId","Age Group",3,0
+656,1,133,"State x Age x Gender x Race/Ethnicity","GenderId","Gender",4,0
+656,2,9,"State x County x Age","AgeBandId","Age Group",3,1
+656,2,10,"State x County x Gender","GenderId","Gender",4,1
+656,2,13,"State x County x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,1
+657,1,3,"State x Age","AgeBandId","Age Group",3,0
+657,1,4,"State x Gender","GenderId","Gender",4,0
+657,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+657,1,37,"State x Age x Gender","AgeBandId","Age Group",3,0
+657,1,37,"State x Age x Gender","GenderId","Gender",4,0
+657,1,42,"State x Age x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+657,1,42,"State x Age x Race/Ethnicity","AgeBandId","Age Group",3,0
+657,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+657,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+657,1,133,"State x Age x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+657,1,133,"State x Age x Gender x Race/Ethnicity","AgeBandId","Age Group",3,0
+657,1,133,"State x Age x Gender x Race/Ethnicity","GenderId","Gender",4,0
+657,2,9,"State x County x Age","AgeBandId","Age Group",3,1
+657,2,10,"State x County x Gender","GenderId","Gender",4,1
+657,2,13,"State x County x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,1
+658,1,3,"State x Age","AgeBandId","Age Group",3,0
+658,1,4,"State x Gender","GenderId","Gender",4,0
+658,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+658,1,37,"State x Age x Gender","AgeBandId","Age Group",3,0
+658,1,37,"State x Age x Gender","GenderId","Gender",4,0
+658,1,42,"State x Age x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+658,1,42,"State x Age x Race/Ethnicity","AgeBandId","Age Group",3,0
+658,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+658,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+658,1,133,"State x Age x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+658,1,133,"State x Age x Gender x Race/Ethnicity","AgeBandId","Age Group",3,0
+658,1,133,"State x Age x Gender x Race/Ethnicity","GenderId","Gender",4,0
+658,2,9,"State x County x Age","AgeBandId","Age Group",3,1
+658,2,10,"State x County x Gender","GenderId","Gender",4,1
+658,2,13,"State x County x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,1
+698,1,155,"State x Transportation Type","TransportationTypeId","Transportation Type",46,0
+698,2,162,"State x County x Transportation Type","TransportationTypeId","Transportation Type",46,0
+698,7,156,"State x Census Tract x Transportation Type","TransportationTypeId","Transportation Type",46,0
+699,1,155,"State x Transportation Type","TransportationTypeId","Transportation Type",46,0
+699,2,162,"State x County x Transportation Type","TransportationTypeId","Transportation Type",46,0
+699,7,156,"State x Census Tract x Transportation Type","TransportationTypeId","Transportation Type",46,0
+700,1,160,"State x Occupancy","OccupancyId","Occupancy",47,0
+700,2,158,"State x County Occupancy","OccupancyId","Occupancy",47,0
+700,7,161,"State x Census Tract x Occupancy","OccupancyId","Occupancy",47,0
+701,1,160,"State x Occupancy","OccupancyId","Occupancy",47,0
+701,2,158,"State x County Occupancy","OccupancyId","Occupancy",47,0
+701,7,161,"State x Census Tract x Occupancy","OccupancyId","Occupancy",47,0
+704,1,3,"State x Age","AgeBandId","Age Group",3,0
+704,1,4,"State x Gender","GenderId","Gender",4,0
+704,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+705,1,3,"State x Age","AgeBandId","Age Group",3,0
+705,1,4,"State x Gender","GenderId","Gender",4,0
+705,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+705,2,9,"State x County x Age","AgeBandId","Age Group",3,1
+705,2,10,"State x County x Gender","GenderId","Gender",4,1
+705,2,13,"State x County x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,1
+706,1,4,"State x Gender","GenderId","Gender",4,0
+706,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+706,2,10,"State x County x Gender","GenderId","Gender",4,1
+706,2,13,"State x County x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,1
+707,2,163,"State x County x Severity","SeverityId","Severity",48,0
+707,2,164,"State x County x Quarter","QuarterId","Quarter",49,0
+707,2,165,"State x County x Severity x Quarter","SeverityId","Severity",48,0
+707,2,165,"State x County x Severity x Quarter","QuarterId","Quarter",49,0
+708,2,163,"State x County x Severity","SeverityId","Severity",48,0
+709,2,163,"State x County x Severity","SeverityId","Severity",48,0
+709,2,164,"State x County x Quarter","QuarterId","Quarter",49,0
+709,2,165,"State x County x Severity x Quarter","SeverityId","Severity",48,0
+709,2,165,"State x County x Severity x Quarter","QuarterId","Quarter",49,0
+710,2,163,"State x County x Severity","SeverityId","Severity",48,0
+712,1,175,"State x Commute Time","CommuteTimeId","Commute Time",51,0
+712,2,176,"State x County x Commute Time","CommuteTimeId","Commute Time",51,0
+712,7,177,"State x Census Tract x Commute Time","CommuteTimeId","Commute Time",51,0
+713,1,175,"State x Commute Time","CommuteTimeId","Commute Time",51,0
+713,2,176,"State x County x Commute Time","CommuteTimeId","Commute Time",51,0
+713,7,177,"State x Census Tract x Commute Time","CommuteTimeId","Commute Time",51,0
+714,1,175,"State x Commute Time","CommuteTimeId","Commute Time",51,0
+714,2,176,"State x County x Commute Time","CommuteTimeId","Commute Time",51,0
+714,7,177,"State x Census Tract x Commute Time","CommuteTimeId","Commute Time",51,0
+715,1,175,"State x Commute Time","CommuteTimeId","Commute Time",51,0
+715,2,176,"State x County x Commute Time","CommuteTimeId","Commute Time",51,0
+715,7,177,"State x Census Tract x Commute Time","CommuteTimeId","Commute Time",51,0
+716,1,175,"State x Commute Time","CommuteTimeId","Commute Time",51,0
+716,2,176,"State x County x Commute Time","CommuteTimeId","Commute Time",51,0
+716,7,177,"State x Census Tract x Commute Time","CommuteTimeId","Commute Time",51,0
+717,1,175,"State x Commute Time","CommuteTimeId","Commute Time",51,0
+717,2,176,"State x County x Commute Time","CommuteTimeId","Commute Time",51,0
+717,7,177,"State x Census Tract x Commute Time","CommuteTimeId","Commute Time",51,0
+727,1,3,"State x Age","AgeBandId","Age Group",3,0
+727,1,4,"State x Gender","GenderId","Gender",4,0
+727,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+728,1,3,"State x Age","AgeBandId","Age Group",3,0
+728,1,4,"State x Gender","GenderId","Gender",4,0
+728,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+731,2,180,"State x County x Access Measure","AccessId","Access Measure",53,0
+731,2,181,"State x County x Health Measure","HealthId","Health Measure",55,0
+731,2,182,"State x County x Air Measure","AirId","Baseline Air Quality",57,0
+731,2,183,"State x County x Population Measure","PopulationId","Population Measure",58,0
+731,2,2228,"State x County x Internet Access","InternetId","Online Content Measure",1069,0
+731,7,188,"State x Census Tract x Population Measure","PopulationId","Population Measure",58,0
+731,7,189,"State x Census Tract x Access Measure","AccessId","Access Measure",53,0
+731,7,2229,"State x Census Tract x Internet Access","InternetId","Online Content Measure",1069,0
+734,2,184,"State x County x Contaminant","ContaminantId","Contaminant",59,0
+736,6,141,"National x Percentile","PercentileId","Percentile",45,0
+736,6,142,"National x Percentile x Age","AgeBandId","Age Group",3,0
+736,6,142,"National x Percentile x Age","PercentileId","Percentile",45,0
+736,6,143,"National x Percentile x Gender","GenderId","Gender",4,0
+736,6,143,"National x Percentile x Gender","PercentileId","Percentile",45,0
+736,6,185,"National x Percentile x Age x Gender","AgeBandId","Age Group",3,0
+736,6,185,"National x Percentile x Age x Gender","GenderId","Gender",4,0
+736,6,185,"National x Percentile x Age x Gender","PercentileId","Percentile",45,0
+737,6,141,"National x Percentile","PercentileId","Percentile",45,0
+737,6,142,"National x Percentile x Age","AgeBandId","Age Group",3,0
+737,6,142,"National x Percentile x Age","PercentileId","Percentile",45,0
+737,6,143,"National x Percentile x Gender","GenderId","Gender",4,0
+737,6,143,"National x Percentile x Gender","PercentileId","Percentile",45,0
+737,6,185,"National x Percentile x Age x Gender","AgeBandId","Age Group",3,0
+737,6,185,"National x Percentile x Age x Gender","GenderId","Gender",4,0
+737,6,185,"National x Percentile x Age x Gender","PercentileId","Percentile",45,0
+738,6,141,"National x Percentile","PercentileId","Percentile",45,0
+738,6,142,"National x Percentile x Age","AgeBandId","Age Group",3,0
+738,6,142,"National x Percentile x Age","PercentileId","Percentile",45,0
+738,6,143,"National x Percentile x Gender","GenderId","Gender",4,0
+738,6,143,"National x Percentile x Gender","PercentileId","Percentile",45,0
+738,6,185,"National x Percentile x Age x Gender","AgeBandId","Age Group",3,0
+738,6,185,"National x Percentile x Age x Gender","GenderId","Gender",4,0
+738,6,185,"National x Percentile x Age x Gender","PercentileId","Percentile",45,0
+739,6,141,"National x Percentile","PercentileId","Percentile",45,0
+739,6,142,"National x Percentile x Age","AgeBandId","Age Group",3,0
+739,6,142,"National x Percentile x Age","PercentileId","Percentile",45,0
+739,6,143,"National x Percentile x Gender","GenderId","Gender",4,0
+739,6,143,"National x Percentile x Gender","PercentileId","Percentile",45,0
+739,6,185,"National x Percentile x Age x Gender","AgeBandId","Age Group",3,0
+739,6,185,"National x Percentile x Age x Gender","GenderId","Gender",4,0
+739,6,185,"National x Percentile x Age x Gender","PercentileId","Percentile",45,0
+740,6,141,"National x Percentile","PercentileId","Percentile",45,0
+740,6,142,"National x Percentile x Age","AgeBandId","Age Group",3,0
+740,6,142,"National x Percentile x Age","PercentileId","Percentile",45,0
+740,6,143,"National x Percentile x Gender","GenderId","Gender",4,0
+740,6,143,"National x Percentile x Gender","PercentileId","Percentile",45,0
+740,6,185,"National x Percentile x Age x Gender","AgeBandId","Age Group",3,0
+740,6,185,"National x Percentile x Age x Gender","GenderId","Gender",4,0
+740,6,185,"National x Percentile x Age x Gender","PercentileId","Percentile",45,0
+741,6,145,"National x Percentile x Creatinine Corrected","CreatinineCorrectedId","Creatinine Corrected",18,0
+741,6,145,"National x Percentile x Creatinine Corrected","PercentileId","Percentile",45,0
+741,6,146,"National x Percentile x Creatinine Corrected x Age","AgeBandId","Age Group",3,0
+741,6,146,"National x Percentile x Creatinine Corrected x Age","CreatinineCorrectedId","Creatinine Corrected",18,0
+741,6,146,"National x Percentile x Creatinine Corrected x Age","PercentileId","Percentile",45,0
+741,6,147,"National x Percentile x Creatinine Corrected x Gender","GenderId","Gender",4,0
+741,6,147,"National x Percentile x Creatinine Corrected x Gender","CreatinineCorrectedId","Creatinine Corrected",18,0
+741,6,147,"National x Percentile x Creatinine Corrected x Gender","PercentileId","Percentile",45,0
+741,6,187,"National x Percentile x Age x Gender x Creatinine Corrected","AgeBandId","Age Group",3,0
+741,6,187,"National x Percentile x Age x Gender x Creatinine Corrected","GenderId","Gender",4,0
+741,6,187,"National x Percentile x Age x Gender x Creatinine Corrected","CreatinineCorrectedId","Creatinine Corrected",18,0
+741,6,187,"National x Percentile x Age x Gender x Creatinine Corrected","PercentileId","Percentile",45,0
+742,2,2185,"State x County x Test Type","TestMethodTypeId","Test Type",1059,0
+742,2,2186,"State x County x Building Purpose","BuildingPurposeId","Building Purpose",1060,0
+742,2,2198,"State x County x Building Purpose x Test Type","TestMethodTypeId","Test Type",1059,0
+742,2,2198,"State x County x Building Purpose x Test Type","BuildingPurposeId","Building Purpose",1060,0
+743,2,2189,"State x County x Concentration Level","RadonCutpointId","Concentration Level",1061,0
+744,2,2189,"State x County x Concentration Level","RadonCutpointId","Concentration Level",1061,0
+745,2,2189,"State x County x Concentration Level","RadonCutpointId","Concentration Level",1061,0
+746,2,2189,"State x County x Concentration Level","RadonCutpointId","Concentration Level",1061,0
+747,2,2186,"State x County x Building Purpose","BuildingPurposeId","Building Purpose",1060,0
+748,2,2186,"State x County x Building Purpose","BuildingPurposeId","Building Purpose",1060,0
+751,1,4,"State x Gender","GenderId","Gender",4,0
+751,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+751,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+751,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+752,1,4,"State x Gender","GenderId","Gender",4,0
+752,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+752,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+752,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+753,1,4,"State x Gender","GenderId","Gender",4,0
+753,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+753,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+753,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+753,2,10,"State x County x Gender","GenderId","Gender",4,0
+753,2,13,"State x County x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+754,1,4,"State x Gender","GenderId","Gender",4,0
+754,1,8,"State x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+754,1,43,"State x Gender x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,0
+754,1,43,"State x Gender x Race/Ethnicity","GenderId","Gender",4,0
+754,2,10,"State x County x Gender","GenderId","Gender",4,1
+754,2,13,"State x County x Race/Ethnicity","RaceEthnicityId","Race/Ethnicity",2,1
+765,1,2209,"State x Concentration","CutpointId","Concentration",1064,0
+765,2,2210,"State x County x Concentration","CutpointId","Concentration",1064,0
+766,1,2209,"State x Concentration","CutpointId","Concentration",1064,0
+766,2,2210,"State x County x Concentration","CutpointId","Concentration",1064,0
+767,1,2209,"State x Concentration","CutpointId","Concentration",1064,0
+767,2,2210,"State x County x Concentration","CutpointId","Concentration",1064,0
+768,1,2209,"State x Concentration","CutpointId","Concentration",1064,0
+768,2,2210,"State x County x Concentration","CutpointId","Concentration",1064,0
+769,2,102,"State x County x MCL","PMDisplayId","Maximum Contaminant Level",29,0
+770,1,2209,"State x Concentration","CutpointId","Concentration",1064,0
+770,2,2210,"State x County x Concentration","CutpointId","Concentration",1064,0
+771,1,2209,"State x Concentration","CutpointId","Concentration",1064,0
+771,2,2210,"State x County x Concentration","CutpointId","Concentration",1064,0
+772,1,2209,"State x Concentration","CutpointId","Concentration",1064,0
+772,2,2210,"State x County x Concentration","CutpointId","Concentration",1064,0
+773,1,2209,"State x Concentration","CutpointId","Concentration",1064,0
+773,2,2210,"State x County x Concentration","CutpointId","Concentration",1064,0
+774,1,2209,"State x Concentration","CutpointId","Concentration",1064,0
+774,2,2210,"State x County x Concentration","CutpointId","Concentration",1064,0
+775,1,2209,"State x Concentration","CutpointId","Concentration",1064,0
+775,2,2210,"State x County x Concentration","CutpointId","Concentration",1064,0
+776,2,102,"State x County x MCL","PMDisplayId","Maximum Contaminant Level",29,0
+777,1,2209,"State x Concentration","CutpointId","Concentration",1064,0
+777,2,2210,"State x County x Concentration","CutpointId","Concentration",1064,0
+778,1,2209,"State x Concentration","CutpointId","Concentration",1064,0
+778,2,2210,"State x County x Concentration","CutpointId","Concentration",1064,0
+779,1,2209,"State x Concentration","CutpointId","Concentration",1064,0
+779,2,2210,"State x County x Concentration","CutpointId","Concentration",1064,0
+780,1,2209,"State x Concentration","CutpointId","Concentration",1064,0
+780,2,2210,"State x County x Concentration","CutpointId","Concentration",1064,0
+781,1,2209,"State x Concentration","CutpointId","Concentration",1064,0
+781,2,2210,"State x County x Concentration","CutpointId","Concentration",1064,0
+782,1,2209,"State x Concentration","CutpointId","Concentration",1064,0
+782,2,2210,"State x County x Concentration","CutpointId","Concentration",1064,0
+783,2,102,"State x County x MCL","PMDisplayId","Maximum Contaminant Level",29,0
+784,1,2209,"State x Concentration","CutpointId","Concentration",1064,0
+784,2,2210,"State x County x Concentration","CutpointId","Concentration",1064,0
+785,1,2209,"State x Concentration","CutpointId","Concentration",1064,0
+785,2,2210,"State x County x Concentration","CutpointId","Concentration",1064,0
+786,1,2209,"State x Concentration","CutpointId","Concentration",1064,0
+786,2,2210,"State x County x Concentration","CutpointId","Concentration",1064,0
+787,1,2209,"State x Concentration","CutpointId","Concentration",1064,0
+787,2,2210,"State x County x Concentration","CutpointId","Concentration",1064,0
+788,1,2209,"State x Concentration","CutpointId","Concentration",1064,0
+788,2,2210,"State x County x Concentration","CutpointId","Concentration",1064,0
+789,1,2209,"State x Concentration","CutpointId","Concentration",1064,0
+789,2,2210,"State x County x Concentration","CutpointId","Concentration",1064,0
+790,2,102,"State x County x MCL","PMDisplayId","Maximum Contaminant Level",29,0
+791,1,2209,"State x Concentration","CutpointId","Concentration",1064,0
+791,2,2210,"State x County x Concentration","CutpointId","Concentration",1064,0
+792,1,2209,"State x Concentration","CutpointId","Concentration",1064,0
+792,2,2210,"State x County x Concentration","CutpointId","Concentration",1064,0
+793,1,2209,"State x Concentration","CutpointId","Concentration",1064,0
+793,2,2210,"State x County x Concentration","CutpointId","Concentration",1064,0
+794,1,2209,"State x Concentration","CutpointId","Concentration",1064,0
+794,2,2210,"State x County x Concentration","CutpointId","Concentration",1064,0
+795,1,2209,"State x Concentration","CutpointId","Concentration",1064,0
+795,2,2210,"State x County x Concentration","CutpointId","Concentration",1064,0
+796,1,2209,"State x Concentration","CutpointId","Concentration",1064,0
+796,2,2210,"State x County x Concentration","CutpointId","Concentration",1064,0
+797,2,102,"State x County x MCL","PMDisplayId","Maximum Contaminant Level",29,0
+798,1,2209,"State x Concentration","CutpointId","Concentration",1064,0
+798,2,2210,"State x County x Concentration","CutpointId","Concentration",1064,0
+799,1,2209,"State x Concentration","CutpointId","Concentration",1064,0
+799,2,2210,"State x County x Concentration","CutpointId","Concentration",1064,0
+800,1,2209,"State x Concentration","CutpointId","Concentration",1064,0
+800,2,2210,"State x County x Concentration","CutpointId","Concentration",1064,0
+801,1,2209,"State x Concentration","CutpointId","Concentration",1064,0
+801,2,2210,"State x County x Concentration","CutpointId","Concentration",1064,0
+802,2,102,"State x County x MCL","PMDisplayId","Maximum Contaminant Level",29,0
+803,1,2209,"State x Concentration","CutpointId","Concentration",1064,0
+803,2,2210,"State x County x Concentration","CutpointId","Concentration",1064,0
+804,1,2209,"State x Concentration","CutpointId","Concentration",1064,0
+804,2,2210,"State x County x Concentration","CutpointId","Concentration",1064,0
+805,1,2209,"State x Concentration","CutpointId","Concentration",1064,0
+805,2,2210,"State x County x Concentration","CutpointId","Concentration",1064,0
+806,1,2209,"State x Concentration","CutpointId","Concentration",1064,0
+806,2,2210,"State x County x Concentration","CutpointId","Concentration",1064,0
+807,2,102,"State x County x MCL","PMDisplayId","Maximum Contaminant Level",29,0
+808,1,2209,"State x Concentration","CutpointId","Concentration",1064,0
+808,2,2210,"State x County x Concentration","CutpointId","Concentration",1064,0
+809,1,2209,"State x Concentration","CutpointId","Concentration",1064,0
+809,2,2210,"State x County x Concentration","CutpointId","Concentration",1064,0
+810,1,2209,"State x Concentration","CutpointId","Concentration",1064,0
+810,2,2210,"State x County x Concentration","CutpointId","Concentration",1064,0
+811,1,2209,"State x Concentration","CutpointId","Concentration",1064,0
+811,2,2210,"State x County x Concentration","CutpointId","Concentration",1064,0
+812,2,102,"State x County x MCL","PMDisplayId","Maximum Contaminant Level",29,0
+813,1,2209,"State x Concentration","CutpointId","Concentration",1064,0
+813,2,2210,"State x County x Concentration","CutpointId","Concentration",1064,0
+814,1,2209,"State x Concentration","CutpointId","Concentration",1064,0
+814,2,2210,"State x County x Concentration","CutpointId","Concentration",1064,0
+815,1,2209,"State x Concentration","CutpointId","Concentration",1064,0
+815,2,2210,"State x County x Concentration","CutpointId","Concentration",1064,0
+816,1,2209,"State x Concentration","CutpointId","Concentration",1064,0
+816,2,2210,"State x County x Concentration","CutpointId","Concentration",1064,0
+817,2,102,"State x County x MCL","PMDisplayId","Maximum Contaminant Level",29,0
+818,1,2209,"State x Concentration","CutpointId","Concentration",1064,0
+818,2,2210,"State x County x Concentration","CutpointId","Concentration",1064,0
+819,1,2209,"State x Concentration","CutpointId","Concentration",1064,0
+819,2,2210,"State x County x Concentration","CutpointId","Concentration",1064,0
+820,1,2209,"State x Concentration","CutpointId","Concentration",1064,0
+820,2,2210,"State x County x Concentration","CutpointId","Concentration",1064,0
+821,1,2209,"State x Concentration","CutpointId","Concentration",1064,0
+821,2,2210,"State x County x Concentration","CutpointId","Concentration",1064,0
+822,2,102,"State x County x MCL","PMDisplayId","Maximum Contaminant Level",29,0
+823,6,2199,"National X Analyte X Percentile","PercentileId","Percentile",45,0
+823,6,2199,"National X Analyte X Percentile","AnalyteId","Analyte",1065,0
+823,6,2201,"National X Analyte X Percentile X Creatinine Corrected","CreatinineCorrectedId","Creatinine Corrected",18,0
+823,6,2201,"National X Analyte X Percentile X Creatinine Corrected","PercentileId","Percentile",45,0
+823,6,2201,"National X Analyte X Percentile X Creatinine Corrected","AnalyteId","Analyte",1065,0
+823,6,2205,"National X Analyte X Percentile X Demographics","PercentileId","Percentile",45,0
+823,6,2205,"National X Analyte X Percentile X Demographics","AnalyteId","Analyte",1065,0
+823,6,2205,"National X Analyte X Percentile X Demographics","DemographicId","Demographic",1066,0
+823,6,2206,"National X Analyte X Percentile X Creatinine Corrected X Demographics","CreatinineCorrectedId","Creatinine Corrected",18,0
+823,6,2206,"National X Analyte X Percentile X Creatinine Corrected X Demographics","PercentileId","Percentile",45,0
+823,6,2206,"National X Analyte X Percentile X Creatinine Corrected X Demographics","AnalyteId","Analyte",1065,0
+823,6,2206,"National X Analyte X Percentile X Creatinine Corrected X Demographics","DemographicId","Demographic",1066,0
+824,6,2199,"National X Analyte X Percentile","PercentileId","Percentile",45,0
+824,6,2199,"National X Analyte X Percentile","AnalyteId","Analyte",1065,0
+824,6,2201,"National X Analyte X Percentile X Creatinine Corrected","CreatinineCorrectedId","Creatinine Corrected",18,0
+824,6,2201,"National X Analyte X Percentile X Creatinine Corrected","PercentileId","Percentile",45,0
+824,6,2201,"National X Analyte X Percentile X Creatinine Corrected","AnalyteId","Analyte",1065,0
+824,6,2205,"National X Analyte X Percentile X Demographics","PercentileId","Percentile",45,0
+824,6,2205,"National X Analyte X Percentile X Demographics","AnalyteId","Analyte",1065,0
+824,6,2205,"National X Analyte X Percentile X Demographics","DemographicId","Demographic",1066,0
+824,6,2206,"National X Analyte X Percentile X Creatinine Corrected X Demographics","CreatinineCorrectedId","Creatinine Corrected",18,0
+824,6,2206,"National X Analyte X Percentile X Creatinine Corrected X Demographics","PercentileId","Percentile",45,0
+824,6,2206,"National X Analyte X Percentile X Creatinine Corrected X Demographics","AnalyteId","Analyte",1065,0
+824,6,2206,"National X Analyte X Percentile X Creatinine Corrected X Demographics","DemographicId","Demographic",1066,0
+825,6,2199,"National X Analyte X Percentile","PercentileId","Percentile",45,0
+825,6,2199,"National X Analyte X Percentile","AnalyteId","Analyte",1065,0
+825,6,2205,"National X Analyte X Percentile X Demographics","PercentileId","Percentile",45,0
+825,6,2205,"National X Analyte X Percentile X Demographics","AnalyteId","Analyte",1065,0
+825,6,2205,"National X Analyte X Percentile X Demographics","DemographicId","Demographic",1066,0
+826,6,2199,"National X Analyte X Percentile","PercentileId","Percentile",45,0
+826,6,2199,"National X Analyte X Percentile","AnalyteId","Analyte",1065,0
+826,6,2205,"National X Analyte X Percentile X Demographics","PercentileId","Percentile",45,0
+826,6,2205,"National X Analyte X Percentile X Demographics","AnalyteId","Analyte",1065,0
+826,6,2205,"National X Analyte X Percentile X Demographics","DemographicId","Demographic",1066,0
+827,6,2199,"National X Analyte X Percentile","PercentileId","Percentile",45,0
+827,6,2199,"National X Analyte X Percentile","AnalyteId","Analyte",1065,0
+827,6,2201,"National X Analyte X Percentile X Creatinine Corrected","CreatinineCorrectedId","Creatinine Corrected",18,0
+827,6,2201,"National X Analyte X Percentile X Creatinine Corrected","PercentileId","Percentile",45,0
+827,6,2201,"National X Analyte X Percentile X Creatinine Corrected","AnalyteId","Analyte",1065,0
+827,6,2205,"National X Analyte X Percentile X Demographics","PercentileId","Percentile",45,0
+827,6,2205,"National X Analyte X Percentile X Demographics","AnalyteId","Analyte",1065,0
+827,6,2205,"National X Analyte X Percentile X Demographics","DemographicId","Demographic",1066,0
+827,6,2206,"National X Analyte X Percentile X Creatinine Corrected X Demographics","CreatinineCorrectedId","Creatinine Corrected",18,0
+827,6,2206,"National X Analyte X Percentile X Creatinine Corrected X Demographics","PercentileId","Percentile",45,0
+827,6,2206,"National X Analyte X Percentile X Creatinine Corrected X Demographics","AnalyteId","Analyte",1065,0
+827,6,2206,"National X Analyte X Percentile X Creatinine Corrected X Demographics","DemographicId","Demographic",1066,0
+828,6,2199,"National X Analyte X Percentile","PercentileId","Percentile",45,0
+828,6,2199,"National X Analyte X Percentile","AnalyteId","Analyte",1065,0
+828,6,2201,"National X Analyte X Percentile X Creatinine Corrected","CreatinineCorrectedId","Creatinine Corrected",18,0
+828,6,2201,"National X Analyte X Percentile X Creatinine Corrected","PercentileId","Percentile",45,0
+828,6,2201,"National X Analyte X Percentile X Creatinine Corrected","AnalyteId","Analyte",1065,0
+828,6,2205,"National X Analyte X Percentile X Demographics","PercentileId","Percentile",45,0
+828,6,2205,"National X Analyte X Percentile X Demographics","AnalyteId","Analyte",1065,0
+828,6,2205,"National X Analyte X Percentile X Demographics","DemographicId","Demographic",1066,0
+828,6,2206,"National X Analyte X Percentile X Creatinine Corrected X Demographics","CreatinineCorrectedId","Creatinine Corrected",18,0
+828,6,2206,"National X Analyte X Percentile X Creatinine Corrected X Demographics","PercentileId","Percentile",45,0
+828,6,2206,"National X Analyte X Percentile X Creatinine Corrected X Demographics","AnalyteId","Analyte",1065,0
+828,6,2206,"National X Analyte X Percentile X Creatinine Corrected X Demographics","DemographicId","Demographic",1066,0
+829,6,2199,"National X Analyte X Percentile","PercentileId","Percentile",45,0
+829,6,2199,"National X Analyte X Percentile","AnalyteId","Analyte",1065,0
+829,6,2201,"National X Analyte X Percentile X Creatinine Corrected","CreatinineCorrectedId","Creatinine Corrected",18,0
+829,6,2201,"National X Analyte X Percentile X Creatinine Corrected","PercentileId","Percentile",45,0
+829,6,2201,"National X Analyte X Percentile X Creatinine Corrected","AnalyteId","Analyte",1065,0
+829,6,2205,"National X Analyte X Percentile X Demographics","PercentileId","Percentile",45,0
+829,6,2205,"National X Analyte X Percentile X Demographics","AnalyteId","Analyte",1065,0
+829,6,2205,"National X Analyte X Percentile X Demographics","DemographicId","Demographic",1066,0
+829,6,2206,"National X Analyte X Percentile X Creatinine Corrected X Demographics","CreatinineCorrectedId","Creatinine Corrected",18,0
+829,6,2206,"National X Analyte X Percentile X Creatinine Corrected X Demographics","PercentileId","Percentile",45,0
+829,6,2206,"National X Analyte X Percentile X Creatinine Corrected X Demographics","AnalyteId","Analyte",1065,0
+829,6,2206,"National X Analyte X Percentile X Creatinine Corrected X Demographics","DemographicId","Demographic",1066,0
+830,6,2199,"National X Analyte X Percentile","PercentileId","Percentile",45,0
+830,6,2199,"National X Analyte X Percentile","AnalyteId","Analyte",1065,0
+830,6,2201,"National X Analyte X Percentile X Creatinine Corrected","CreatinineCorrectedId","Creatinine Corrected",18,0
+830,6,2201,"National X Analyte X Percentile X Creatinine Corrected","PercentileId","Percentile",45,0
+830,6,2201,"National X Analyte X Percentile X Creatinine Corrected","AnalyteId","Analyte",1065,0
+830,6,2205,"National X Analyte X Percentile X Demographics","PercentileId","Percentile",45,0
+830,6,2205,"National X Analyte X Percentile X Demographics","AnalyteId","Analyte",1065,0
+830,6,2205,"National X Analyte X Percentile X Demographics","DemographicId","Demographic",1066,0
+830,6,2206,"National X Analyte X Percentile X Creatinine Corrected X Demographics","CreatinineCorrectedId","Creatinine Corrected",18,0
+830,6,2206,"National X Analyte X Percentile X Creatinine Corrected X Demographics","PercentileId","Percentile",45,0
+830,6,2206,"National X Analyte X Percentile X Creatinine Corrected X Demographics","AnalyteId","Analyte",1065,0
+830,6,2206,"National X Analyte X Percentile X Creatinine Corrected X Demographics","DemographicId","Demographic",1066,0
+831,6,2199,"National X Analyte X Percentile","PercentileId","Percentile",45,0
+831,6,2199,"National X Analyte X Percentile","AnalyteId","Analyte",1065,0
+831,6,2201,"National X Analyte X Percentile X Creatinine Corrected","CreatinineCorrectedId","Creatinine Corrected",18,0
+831,6,2201,"National X Analyte X Percentile X Creatinine Corrected","PercentileId","Percentile",45,0
+831,6,2201,"National X Analyte X Percentile X Creatinine Corrected","AnalyteId","Analyte",1065,0
+831,6,2205,"National X Analyte X Percentile X Demographics","PercentileId","Percentile",45,0
+831,6,2205,"National X Analyte X Percentile X Demographics","AnalyteId","Analyte",1065,0
+831,6,2205,"National X Analyte X Percentile X Demographics","DemographicId","Demographic",1066,0
+831,6,2206,"National X Analyte X Percentile X Creatinine Corrected X Demographics","CreatinineCorrectedId","Creatinine Corrected",18,0
+831,6,2206,"National X Analyte X Percentile X Creatinine Corrected X Demographics","PercentileId","Percentile",45,0
+831,6,2206,"National X Analyte X Percentile X Creatinine Corrected X Demographics","AnalyteId","Analyte",1065,0
+831,6,2206,"National X Analyte X Percentile X Creatinine Corrected X Demographics","DemographicId","Demographic",1066,0
+832,6,2199,"National X Analyte X Percentile","PercentileId","Percentile",45,0
+832,6,2199,"National X Analyte X Percentile","AnalyteId","Analyte",1065,0
+832,6,2205,"National X Analyte X Percentile X Demographics","PercentileId","Percentile",45,0
+832,6,2205,"National X Analyte X Percentile X Demographics","AnalyteId","Analyte",1065,0
+832,6,2205,"National X Analyte X Percentile X Demographics","DemographicId","Demographic",1066,0
+833,6,2199,"National X Analyte X Percentile","PercentileId","Percentile",45,0
+833,6,2199,"National X Analyte X Percentile","AnalyteId","Analyte",1065,0
+833,6,2205,"National X Analyte X Percentile X Demographics","PercentileId","Percentile",45,0
+833,6,2205,"National X Analyte X Percentile X Demographics","AnalyteId","Analyte",1065,0
+833,6,2205,"National X Analyte X Percentile X Demographics","DemographicId","Demographic",1066,0
+834,6,2199,"National X Analyte X Percentile","PercentileId","Percentile",45,0
+834,6,2199,"National X Analyte X Percentile","AnalyteId","Analyte",1065,0
+834,6,2205,"National X Analyte X Percentile X Demographics","PercentileId","Percentile",45,0
+834,6,2205,"National X Analyte X Percentile X Demographics","AnalyteId","Analyte",1065,0
+834,6,2205,"National X Analyte X Percentile X Demographics","DemographicId","Demographic",1066,0
+835,6,2199,"National X Analyte X Percentile","PercentileId","Percentile",45,0
+835,6,2199,"National X Analyte X Percentile","AnalyteId","Analyte",1065,0
+835,6,2205,"National X Analyte X Percentile X Demographics","PercentileId","Percentile",45,0
+835,6,2205,"National X Analyte X Percentile X Demographics","AnalyteId","Analyte",1065,0
+835,6,2205,"National X Analyte X Percentile X Demographics","DemographicId","Demographic",1066,0
+836,6,2199,"National X Analyte X Percentile","PercentileId","Percentile",45,0
+836,6,2199,"National X Analyte X Percentile","AnalyteId","Analyte",1065,0
+836,6,2205,"National X Analyte X Percentile X Demographics","PercentileId","Percentile",45,0
+836,6,2205,"National X Analyte X Percentile X Demographics","AnalyteId","Analyte",1065,0
+836,6,2205,"National X Analyte X Percentile X Demographics","DemographicId","Demographic",1066,0
+837,6,2199,"National X Analyte X Percentile","PercentileId","Percentile",45,0
+837,6,2199,"National X Analyte X Percentile","AnalyteId","Analyte",1065,0
+837,6,2205,"National X Analyte X Percentile X Demographics","PercentileId","Percentile",45,0
+837,6,2205,"National X Analyte X Percentile X Demographics","AnalyteId","Analyte",1065,0
+837,6,2205,"National X Analyte X Percentile X Demographics","DemographicId","Demographic",1066,0
+838,6,2199,"National X Analyte X Percentile","PercentileId","Percentile",45,0
+838,6,2199,"National X Analyte X Percentile","AnalyteId","Analyte",1065,0
+838,6,2205,"National X Analyte X Percentile X Demographics","PercentileId","Percentile",45,0
+838,6,2205,"National X Analyte X Percentile X Demographics","AnalyteId","Analyte",1065,0
+838,6,2205,"National X Analyte X Percentile X Demographics","DemographicId","Demographic",1066,0
+839,1,2217,"State x Crash Type","PMDisplayId","Crash Type",1067,0
+839,2,2218,"State x County x Crash Type","PMDisplayId","Crash Type",1067,0
+840,1,2217,"State x Crash Type","PMDisplayId","Crash Type",1067,0
+840,2,2218,"State x County x Crash Type","PMDisplayId","Crash Type",1067,0
+856,6,2205,"National X Analyte X Percentile X Demographics","PercentileId","Percentile",45,0
+856,6,2205,"National X Analyte X Percentile X Demographics","AnalyteId","Analyte",1065,0
+856,6,2205,"National X Analyte X Percentile X Demographics","DemographicId","Demographic",1066,0
+857,6,2205,"National X Analyte X Percentile X Demographics","PercentileId","Percentile",45,0
+857,6,2205,"National X Analyte X Percentile X Demographics","AnalyteId","Analyte",1065,0
+857,6,2205,"National X Analyte X Percentile X Demographics","DemographicId","Demographic",1066,0
+858,6,2205,"National X Analyte X Percentile X Demographics","PercentileId","Percentile",45,0
+858,6,2205,"National X Analyte X Percentile X Demographics","AnalyteId","Analyte",1065,0
+858,6,2205,"National X Analyte X Percentile X Demographics","DemographicId","Demographic",1066,0
+859,6,2205,"National X Analyte X Percentile X Demographics","PercentileId","Percentile",45,0
+859,6,2205,"National X Analyte X Percentile X Demographics","AnalyteId","Analyte",1065,0
+859,6,2205,"National X Analyte X Percentile X Demographics","DemographicId","Demographic",1066,0
+860,6,2205,"National X Analyte X Percentile X Demographics","PercentileId","Percentile",45,0
+860,6,2205,"National X Analyte X Percentile X Demographics","AnalyteId","Analyte",1065,0
+860,6,2205,"National X Analyte X Percentile X Demographics","DemographicId","Demographic",1066,0
+861,6,2205,"National X Analyte X Percentile X Demographics","PercentileId","Percentile",45,0
+861,6,2205,"National X Analyte X Percentile X Demographics","AnalyteId","Analyte",1065,0
+861,6,2205,"National X Analyte X Percentile X Demographics","DemographicId","Demographic",1066,0
+862,6,2205,"National X Analyte X Percentile X Demographics","PercentileId","Percentile",45,0
+862,6,2205,"National X Analyte X Percentile X Demographics","AnalyteId","Analyte",1065,0
+862,6,2205,"National X Analyte X Percentile X Demographics","DemographicId","Demographic",1066,0
+863,6,2205,"National X Analyte X Percentile X Demographics","PercentileId","Percentile",45,0
+863,6,2205,"National X Analyte X Percentile X Demographics","AnalyteId","Analyte",1065,0
+863,6,2205,"National X Analyte X Percentile X Demographics","DemographicId","Demographic",1066,0
+866,2,2189,"State x County x Concentration Level","RadonCutpointId","Concentration Level",1061,0
+867,2,2189,"State x County x Concentration Level","RadonCutpointId","Concentration Level",1061,0
+868,2,2189,"State x County x Concentration Level","RadonCutpointId","Concentration Level",1061,0
+869,2,2189,"State x County x Concentration Level","RadonCutpointId","Concentration Level",1061,0
+872,2,2218,"State x County x Crash Type","PMDisplayId","Crash Type",1067,0
+875,7,138,"State x Census Tract x Age","AgeBandId","Age Group",3,0
+927,2,2238,"State x County x State-Issued","StateCountyIssuedId","Stay-at-Home Order Type",1074,0
+29,1,1,"State",NA,NA,NA,0
+29,2,2,"State x County",NA,NA,NA,0
+30,1,1,"State",NA,NA,NA,0
+30,2,2,"State x County",NA,NA,NA,1
+35,1,1,"State",NA,NA,NA,0
+35,2,2,"State x County",NA,NA,NA,0
+36,1,1,"State",NA,NA,NA,0
+36,2,2,"State x County",NA,NA,NA,1
+45,1,1,"State",NA,NA,NA,0
+45,2,2,"State x County",NA,NA,NA,0
+46,1,1,"State",NA,NA,NA,0
+46,2,2,"State x County",NA,NA,NA,1
+47,1,1,"State",NA,NA,NA,0
+48,1,1,"State",NA,NA,NA,0
+49,1,1,"State",NA,NA,NA,0
+50,1,1,"State",NA,NA,NA,0
+55,1,1,"State",NA,NA,NA,0
+56,1,1,"State",NA,NA,NA,0
+57,1,1,"State",NA,NA,NA,0
+58,1,1,"State",NA,NA,NA,0
+59,1,1,"State",NA,NA,NA,0
+60,1,1,"State",NA,NA,NA,0
+61,1,1,"State",NA,NA,NA,0
+62,1,1,"State",NA,NA,NA,0
+63,1,1,"State",NA,NA,NA,0
+64,1,1,"State",NA,NA,NA,0
+65,1,1,"State",NA,NA,NA,0
+66,1,1,"State",NA,NA,NA,0
+67,1,1,"State",NA,NA,NA,0
+68,1,1,"State",NA,NA,NA,0
+69,1,1,"State",NA,NA,NA,0
+70,1,1,"State",NA,NA,NA,0
+71,1,1,"State",NA,NA,NA,0
+72,1,1,"State",NA,NA,NA,0
+73,1,1,"State",NA,NA,NA,0
+74,1,1,"State",NA,NA,NA,0
+75,1,1,"State",NA,NA,NA,0
+76,1,1,"State",NA,NA,NA,0
+77,1,1,"State",NA,NA,NA,0
+78,1,1,"State",NA,NA,NA,0
+79,1,1,"State",NA,NA,NA,0
+80,1,1,"State",NA,NA,NA,0
+81,1,1,"State",NA,NA,NA,0
+82,1,1,"State",NA,NA,NA,0
+83,2,2,"State x County",NA,NA,NA,0
+84,2,2,"State x County",NA,NA,NA,0
+85,2,2,"State x County",NA,NA,NA,0
+86,2,2,"State x County",NA,NA,NA,0
+87,2,2,"State x County",NA,NA,NA,0
+89,1,1,"State",NA,NA,NA,0
+89,2,2,"State x County",NA,NA,NA,0
+90,1,1,"State",NA,NA,NA,0
+90,2,2,"State x County",NA,NA,NA,0
+93,1,1,"State",NA,NA,NA,0
+93,2,2,"State x County",NA,NA,NA,0
+94,1,1,"State",NA,NA,NA,0
+94,2,2,"State x County",NA,NA,NA,0
+95,1,1,"State",NA,NA,NA,0
+95,2,2,"State x County",NA,NA,NA,0
+96,1,1,"State",NA,NA,NA,0
+96,2,2,"State x County",NA,NA,NA,0
+97,1,1,"State",NA,NA,NA,0
+97,2,2,"State x County",NA,NA,NA,0
+98,1,1,"State",NA,NA,NA,0
+98,2,2,"State x County",NA,NA,NA,0
+99,1,1,"State",NA,NA,NA,0
+99,2,2,"State x County",NA,NA,NA,0
+101,1,1,"State",NA,NA,NA,0
+101,2,2,"State x County",NA,NA,NA,1
+103,1,1,"State",NA,NA,NA,0
+103,2,2,"State x County",NA,NA,NA,1
+104,1,1,"State",NA,NA,NA,0
+104,2,2,"State x County",NA,NA,NA,0
+106,1,1,"State",NA,NA,NA,0
+106,2,2,"State x County",NA,NA,NA,1
+108,1,1,"State",NA,NA,NA,0
+108,2,2,"State x County",NA,NA,NA,1
+117,1,1,"State",NA,NA,NA,0
+118,1,1,"State",NA,NA,NA,0
+119,1,1,"State",NA,NA,NA,0
+120,1,1,"State",NA,NA,NA,0
+121,1,1,"State",NA,NA,NA,0
+122,1,1,"State",NA,NA,NA,0
+129,1,1,"State",NA,NA,NA,0
+221,1,1,"State",NA,NA,NA,0
+221,2,2,"State x County",NA,NA,NA,1
+222,1,1,"State",NA,NA,NA,0
+222,2,2,"State x County",NA,NA,NA,1
+223,1,1,"State",NA,NA,NA,0
+223,2,2,"State x County",NA,NA,NA,1
+224,1,1,"State",NA,NA,NA,0
+224,2,2,"State x County",NA,NA,NA,1
+225,1,1,"State",NA,NA,NA,0
+225,2,2,"State x County",NA,NA,NA,1
+226,1,1,"State",NA,NA,NA,0
+226,2,2,"State x County",NA,NA,NA,1
+229,1,1,"State",NA,NA,NA,0
+229,2,2,"State x County",NA,NA,NA,0
+230,1,1,"State",NA,NA,NA,0
+230,2,2,"State x County",NA,NA,NA,0
+231,1,1,"State",NA,NA,NA,0
+231,2,2,"State x County",NA,NA,NA,0
+232,1,1,"State",NA,NA,NA,0
+232,2,2,"State x County",NA,NA,NA,0
+233,1,1,"State",NA,NA,NA,0
+233,2,2,"State x County",NA,NA,NA,0
+234,1,1,"State",NA,NA,NA,0
+234,2,2,"State x County",NA,NA,NA,0
+237,1,1,"State",NA,NA,NA,0
+237,2,2,"State x County",NA,NA,NA,0
+238,1,1,"State",NA,NA,NA,0
+238,2,2,"State x County",NA,NA,NA,1
+239,1,1,"State",NA,NA,NA,0
+239,2,2,"State x County",NA,NA,NA,0
+240,1,1,"State",NA,NA,NA,0
+240,2,2,"State x County",NA,NA,NA,1
+241,1,1,"State",NA,NA,NA,0
+241,2,2,"State x County",NA,NA,NA,0
+242,1,1,"State",NA,NA,NA,0
+242,2,2,"State x County",NA,NA,NA,1
+243,1,1,"State",NA,NA,NA,0
+243,2,2,"State x County",NA,NA,NA,0
+244,1,1,"State",NA,NA,NA,0
+244,2,2,"State x County",NA,NA,NA,1
+245,1,1,"State",NA,NA,NA,0
+245,2,2,"State x County",NA,NA,NA,0
+246,1,1,"State",NA,NA,NA,0
+246,2,2,"State x County",NA,NA,NA,1
+249,1,1,"State",NA,NA,NA,0
+249,2,2,"State x County",NA,NA,NA,0
+250,1,1,"State",NA,NA,NA,0
+250,2,2,"State x County",NA,NA,NA,1
+251,1,1,"State",NA,NA,NA,0
+251,2,2,"State x County",NA,NA,NA,0
+252,1,1,"State",NA,NA,NA,0
+252,2,2,"State x County",NA,NA,NA,1
+253,1,1,"State",NA,NA,NA,0
+253,2,2,"State x County",NA,NA,NA,0
+254,1,1,"State",NA,NA,NA,0
+254,2,2,"State x County",NA,NA,NA,1
+259,1,1,"State",NA,NA,NA,0
+259,2,2,"State x County",NA,NA,NA,0
+260,1,1,"State",NA,NA,NA,0
+260,2,2,"State x County",NA,NA,NA,1
+261,1,1,"State",NA,NA,NA,0
+261,2,2,"State x County",NA,NA,NA,0
+262,1,1,"State",NA,NA,NA,0
+262,2,2,"State x County",NA,NA,NA,1
+274,1,1,"State",NA,NA,NA,0
+274,2,2,"State x County",NA,NA,NA,0
+275,1,1,"State",NA,NA,NA,0
+275,2,2,"State x County",NA,NA,NA,1
+276,1,1,"State",NA,NA,NA,0
+276,2,2,"State x County",NA,NA,NA,0
+277,1,1,"State",NA,NA,NA,0
+277,2,2,"State x County",NA,NA,NA,1
+278,1,1,"State",NA,NA,NA,0
+278,2,2,"State x County",NA,NA,NA,0
+279,1,1,"State",NA,NA,NA,0
+279,2,2,"State x County",NA,NA,NA,1
+280,1,1,"State",NA,NA,NA,0
+280,2,2,"State x County",NA,NA,NA,0
+281,1,1,"State",NA,NA,NA,0
+281,2,2,"State x County",NA,NA,NA,1
+284,1,1,"State",NA,NA,NA,0
+284,2,2,"State x County",NA,NA,NA,0
+285,1,1,"State",NA,NA,NA,0
+285,2,2,"State x County",NA,NA,NA,1
+286,1,1,"State",NA,NA,NA,0
+287,1,1,"State",NA,NA,NA,0
+290,1,1,"State",NA,NA,NA,0
+290,2,2,"State x County",NA,NA,NA,0
+291,1,1,"State",NA,NA,NA,0
+291,2,2,"State x County",NA,NA,NA,1
+292,2,2,"State x County",NA,NA,NA,0
+293,2,2,"State x County",NA,NA,NA,0
+294,2,2,"State x County",NA,NA,NA,0
+295,2,2,"State x County",NA,NA,NA,0
+296,2,2,"State x County",NA,NA,NA,0
+324,1,1,"State",NA,NA,NA,0
+324,2,2,"State x County",NA,NA,NA,0
+324,7,137,"State x Census Tract",NA,NA,NA,0
+324,10,2220,"State x 5k",NA,NA,NA,0
+324,12,2221,"State x 20k",NA,NA,NA,0
+326,1,1,"State",NA,NA,NA,0
+326,2,2,"State x County",NA,NA,NA,0
+327,1,1,"State",NA,NA,NA,0
+327,2,2,"State x County",NA,NA,NA,0
+328,1,1,"State",NA,NA,NA,0
+328,2,2,"State x County",NA,NA,NA,0
+329,1,1,"State",NA,NA,NA,0
+329,2,2,"State x County",NA,NA,NA,0
+330,1,1,"State",NA,NA,NA,0
+330,2,2,"State x County",NA,NA,NA,0
+331,2,2,"State x County",NA,NA,NA,0
+331,7,137,"State x Census Tract",NA,NA,NA,0
+331,10,2220,"State x 5k",NA,NA,NA,0
+331,12,2221,"State x 20k",NA,NA,NA,0
+332,2,2,"State x County",NA,NA,NA,0
+332,7,137,"State x Census Tract",NA,NA,NA,0
+332,10,2220,"State x 5k",NA,NA,NA,0
+332,12,2221,"State x 20k",NA,NA,NA,0
+333,1,1,"State",NA,NA,NA,0
+334,1,1,"State",NA,NA,NA,0
+335,1,1,"State",NA,NA,NA,0
+336,1,1,"State",NA,NA,NA,0
+337,1,1,"State",NA,NA,NA,0
+338,1,1,"State",NA,NA,NA,0
+339,1,1,"State",NA,NA,NA,0
+344,1,1,"State",NA,NA,NA,0
+344,2,2,"State x County",NA,NA,NA,0
+344,7,137,"State x Census Tract",NA,NA,NA,0
+345,1,1,"State",NA,NA,NA,0
+345,2,2,"State x County",NA,NA,NA,0
+345,7,137,"State x Census Tract",NA,NA,NA,0
+356,1,1,"State",NA,NA,NA,0
+356,2,2,"State x County",NA,NA,NA,0
+356,7,137,"State x Census Tract",NA,NA,NA,0
+357,2,2,"State x County",NA,NA,NA,0
+358,2,2,"State x County",NA,NA,NA,0
+360,2,2,"State x County",NA,NA,NA,0
+363,2,2,"State x County",NA,NA,NA,0
+364,2,2,"State x County",NA,NA,NA,0
+364,7,137,"State x Census Tract",NA,NA,NA,0
+364,10,2220,"State x 5k",NA,NA,NA,0
+364,12,2221,"State x 20k",NA,NA,NA,0
+367,2,2,"State x County",NA,NA,NA,0
+367,7,137,"State x Census Tract",NA,NA,NA,0
+368,2,2,"State x County",NA,NA,NA,0
+368,7,137,"State x Census Tract",NA,NA,NA,0
+369,2,2,"State x County",NA,NA,NA,0
+369,7,137,"State x Census Tract",NA,NA,NA,0
+370,1,1,"State",NA,NA,NA,0
+373,1,1,"State",NA,NA,NA,0
+374,1,1,"State",NA,NA,NA,0
+375,1,1,"State",NA,NA,NA,0
+376,1,1,"State",NA,NA,NA,0
+377,1,1,"State",NA,NA,NA,0
+378,1,1,"State",NA,NA,NA,0
+379,1,1,"State",NA,NA,NA,0
+380,1,1,"State",NA,NA,NA,0
+381,1,1,"State",NA,NA,NA,0
+382,1,1,"State",NA,NA,NA,0
+383,1,1,"State",NA,NA,NA,0
+384,1,1,"State",NA,NA,NA,0
+385,1,1,"State",NA,NA,NA,0
+385,2,2,"State x County",NA,NA,NA,0
+386,1,1,"State",NA,NA,NA,0
+387,1,1,"State",NA,NA,NA,0
+387,2,2,"State x County",NA,NA,NA,1
+388,1,1,"State",NA,NA,NA,0
+389,1,1,"State",NA,NA,NA,0
+389,2,2,"State x County",NA,NA,NA,0
+390,1,1,"State",NA,NA,NA,0
+391,1,1,"State",NA,NA,NA,0
+391,2,2,"State x County",NA,NA,NA,1
+392,1,1,"State",NA,NA,NA,0
+393,1,1,"State",NA,NA,NA,0
+393,2,2,"State x County",NA,NA,NA,0
+394,1,1,"State",NA,NA,NA,0
+395,1,1,"State",NA,NA,NA,0
+395,2,2,"State x County",NA,NA,NA,1
+413,1,1,"State",NA,NA,NA,0
+413,2,2,"State x County",NA,NA,NA,0
+414,1,1,"State",NA,NA,NA,0
+414,2,2,"State x County",NA,NA,NA,0
+415,1,1,"State",NA,NA,NA,0
+415,2,2,"State x County",NA,NA,NA,0
+416,1,1,"State",NA,NA,NA,0
+416,2,2,"State x County",NA,NA,NA,0
+418,1,1,"State",NA,NA,NA,0
+420,1,1,"State",NA,NA,NA,0
+422,1,1,"State",NA,NA,NA,0
+427,1,1,"State",NA,NA,NA,0
+427,2,2,"State x County",NA,NA,NA,0
+427,7,137,"State x Census Tract",NA,NA,NA,0
+428,1,1,"State",NA,NA,NA,0
+428,2,2,"State x County",NA,NA,NA,0
+428,7,137,"State x Census Tract",NA,NA,NA,0
+431,1,1,"State",NA,NA,NA,0
+432,1,1,"State",NA,NA,NA,0
+433,1,1,"State",NA,NA,NA,0
+434,1,1,"State",NA,NA,NA,0
+434,2,2,"State x County",NA,NA,NA,0
+436,1,1,"State",NA,NA,NA,0
+436,2,2,"State x County",NA,NA,NA,1
+437,1,1,"State",NA,NA,NA,0
+437,2,2,"State x County",NA,NA,NA,1
+438,1,1,"State",NA,NA,NA,0
+439,1,1,"State",NA,NA,NA,0
+440,1,1,"State",NA,NA,NA,0
+481,1,1,"State",NA,NA,NA,0
+482,1,1,"State",NA,NA,NA,0
+482,2,2,"State x County",NA,NA,NA,0
+483,1,1,"State",NA,NA,NA,0
+484,1,1,"State",NA,NA,NA,0
+484,2,2,"State x County",NA,NA,NA,1
+485,1,1,"State",NA,NA,NA,0
+486,1,1,"State",NA,NA,NA,0
+486,2,2,"State x County",NA,NA,NA,0
+487,1,1,"State",NA,NA,NA,0
+488,1,1,"State",NA,NA,NA,0
+488,2,2,"State x County",NA,NA,NA,1
+489,1,1,"State",NA,NA,NA,0
+490,1,1,"State",NA,NA,NA,0
+490,2,2,"State x County",NA,NA,NA,0
+491,1,1,"State",NA,NA,NA,0
+492,1,1,"State",NA,NA,NA,0
+492,2,2,"State x County",NA,NA,NA,1
+493,1,1,"State",NA,NA,NA,0
+494,1,1,"State",NA,NA,NA,0
+494,2,2,"State x County",NA,NA,NA,0
+495,1,1,"State",NA,NA,NA,0
+496,1,1,"State",NA,NA,NA,0
+496,2,2,"State x County",NA,NA,NA,1
+505,1,1,"State",NA,NA,NA,0
+506,1,1,"State",NA,NA,NA,0
+507,1,1,"State",NA,NA,NA,0
+508,1,1,"State",NA,NA,NA,0
+509,1,1,"State",NA,NA,NA,0
+510,1,1,"State",NA,NA,NA,0
+511,1,1,"State",NA,NA,NA,0
+512,1,1,"State",NA,NA,NA,0
+513,1,1,"State",NA,NA,NA,0
+514,1,1,"State",NA,NA,NA,0
+515,1,1,"State",NA,NA,NA,0
+516,1,1,"State",NA,NA,NA,0
+517,1,1,"State",NA,NA,NA,0
+518,1,1,"State",NA,NA,NA,0
+519,1,1,"State",NA,NA,NA,0
+520,1,1,"State",NA,NA,NA,0
+521,1,1,"State",NA,NA,NA,0
+523,1,1,"State",NA,NA,NA,0
+525,1,1,"State",NA,NA,NA,0
+526,1,1,"State",NA,NA,NA,0
+527,1,1,"State",NA,NA,NA,0
+528,1,1,"State",NA,NA,NA,0
+529,1,1,"State",NA,NA,NA,0
+530,1,1,"State",NA,NA,NA,0
+531,1,1,"State",NA,NA,NA,0
+532,1,1,"State",NA,NA,NA,0
+538,1,1,"State",NA,NA,NA,0
+538,2,2,"State x County",NA,NA,NA,0
+539,1,1,"State",NA,NA,NA,0
+539,2,2,"State x County",NA,NA,NA,0
+540,1,1,"State",NA,NA,NA,0
+541,1,1,"State",NA,NA,NA,0
+545,1,1,"State",NA,NA,NA,0
+545,2,2,"State x County",NA,NA,NA,0
+546,1,1,"State",NA,NA,NA,0
+546,2,2,"State x County",NA,NA,NA,0
+547,1,1,"State",NA,NA,NA,0
+547,2,2,"State x County",NA,NA,NA,0
+548,1,1,"State",NA,NA,NA,0
+548,2,2,"State x County",NA,NA,NA,0
+549,1,1,"State",NA,NA,NA,0
+549,2,2,"State x County",NA,NA,NA,0
+550,1,1,"State",NA,NA,NA,0
+550,2,2,"State x County",NA,NA,NA,1
+551,1,1,"State",NA,NA,NA,0
+551,2,2,"State x County",NA,NA,NA,1
+552,1,1,"State",NA,NA,NA,0
+552,2,2,"State x County",NA,NA,NA,0
+553,1,1,"State",NA,NA,NA,0
+553,2,2,"State x County",NA,NA,NA,1
+554,1,1,"State",NA,NA,NA,0
+554,2,2,"State x County",NA,NA,NA,1
+555,1,1,"State",NA,NA,NA,0
+555,2,2,"State x County",NA,NA,NA,0
+556,1,1,"State",NA,NA,NA,0
+556,2,2,"State x County",NA,NA,NA,0
+557,1,1,"State",NA,NA,NA,0
+557,2,2,"State x County",NA,NA,NA,0
+558,1,1,"State",NA,NA,NA,0
+558,2,2,"State x County",NA,NA,NA,0
+559,1,1,"State",NA,NA,NA,0
+559,2,2,"State x County",NA,NA,NA,0
+560,1,1,"State",NA,NA,NA,0
+561,1,1,"State",NA,NA,NA,0
+562,1,1,"State",NA,NA,NA,0
+563,1,1,"State",NA,NA,NA,0
+564,1,1,"State",NA,NA,NA,0
+570,2,2,"State x County",NA,NA,NA,0
+571,2,2,"State x County",NA,NA,NA,0
+573,1,1,"State",NA,NA,NA,0
+574,1,1,"State",NA,NA,NA,0
+575,1,1,"State",NA,NA,NA,0
+577,2,2,"State x County",NA,NA,NA,0
+581,2,2,"State x County",NA,NA,NA,0
+582,2,2,"State x County",NA,NA,NA,0
+583,2,2,"State x County",NA,NA,NA,0
+584,2,2,"State x County",NA,NA,NA,0
+585,1,1,"State",NA,NA,NA,0
+586,1,1,"State",NA,NA,NA,0
+587,1,1,"State",NA,NA,NA,0
+588,1,1,"State",NA,NA,NA,0
+589,1,1,"State",NA,NA,NA,0
+590,1,1,"State",NA,NA,NA,0
+591,1,1,"State",NA,NA,NA,0
+593,2,2,"State x County",NA,NA,NA,0
+593,7,137,"State x Census Tract",NA,NA,NA,0
+593,10,2220,"State x 5k",NA,NA,NA,0
+593,12,2221,"State x 20k",NA,NA,NA,0
+594,2,2,"State x County",NA,NA,NA,0
+594,7,137,"State x Census Tract",NA,NA,NA,0
+594,10,2220,"State x 5k",NA,NA,NA,0
+594,12,2221,"State x 20k",NA,NA,NA,0
+595,2,2,"State x County",NA,NA,NA,0
+595,7,137,"State x Census Tract",NA,NA,NA,0
+595,10,2220,"State x 5k",NA,NA,NA,0
+595,12,2221,"State x 20k",NA,NA,NA,0
+596,2,2,"State x County",NA,NA,NA,0
+596,7,137,"State x Census Tract",NA,NA,NA,0
+596,10,2220,"State x 5k",NA,NA,NA,0
+596,12,2221,"State x 20k",NA,NA,NA,0
+597,2,2,"State x County",NA,NA,NA,0
+597,7,137,"State x Census Tract",NA,NA,NA,0
+597,10,2220,"State x 5k",NA,NA,NA,0
+597,12,2221,"State x 20k",NA,NA,NA,0
+598,2,2,"State x County",NA,NA,NA,0
+598,7,137,"State x Census Tract",NA,NA,NA,0
+598,10,2220,"State x 5k",NA,NA,NA,0
+598,12,2221,"State x 20k",NA,NA,NA,0
+599,2,2,"State x County",NA,NA,NA,0
+599,7,137,"State x Census Tract",NA,NA,NA,0
+599,10,2220,"State x 5k",NA,NA,NA,0
+599,12,2221,"State x 20k",NA,NA,NA,0
+600,2,2,"State x County",NA,NA,NA,0
+600,7,137,"State x Census Tract",NA,NA,NA,0
+600,10,2220,"State x 5k",NA,NA,NA,0
+600,12,2221,"State x 20k",NA,NA,NA,0
+601,2,2,"State x County",NA,NA,NA,0
+601,7,137,"State x Census Tract",NA,NA,NA,0
+601,10,2220,"State x 5k",NA,NA,NA,0
+601,12,2221,"State x 20k",NA,NA,NA,0
+604,2,2,"State x County",NA,NA,NA,0
+604,7,137,"State x Census Tract",NA,NA,NA,0
+605,2,2,"State x County",NA,NA,NA,0
+605,7,137,"State x Census Tract",NA,NA,NA,0
+606,2,2,"State x County",NA,NA,NA,0
+606,7,137,"State x Census Tract",NA,NA,NA,0
+607,2,2,"State x County",NA,NA,NA,0
+607,7,137,"State x Census Tract",NA,NA,NA,0
+608,2,2,"State x County",NA,NA,NA,0
+608,7,137,"State x Census Tract",NA,NA,NA,0
+613,2,2,"State x County",NA,NA,NA,0
+613,7,137,"State x Census Tract",NA,NA,NA,0
+614,2,2,"State x County",NA,NA,NA,0
+614,7,137,"State x Census Tract",NA,NA,NA,0
+615,2,2,"State x County",NA,NA,NA,0
+615,7,137,"State x Census Tract",NA,NA,NA,0
+616,2,2,"State x County",NA,NA,NA,0
+616,7,137,"State x Census Tract",NA,NA,NA,0
+617,2,2,"State x County",NA,NA,NA,0
+617,7,137,"State x Census Tract",NA,NA,NA,0
+618,2,2,"State x County",NA,NA,NA,0
+618,7,137,"State x Census Tract",NA,NA,NA,0
+619,2,2,"State x County",NA,NA,NA,0
+619,7,137,"State x Census Tract",NA,NA,NA,0
+620,2,2,"State x County",NA,NA,NA,0
+620,7,137,"State x Census Tract",NA,NA,NA,0
+621,2,2,"State x County",NA,NA,NA,0
+621,7,137,"State x Census Tract",NA,NA,NA,0
+638,2,2,"State x County",NA,NA,NA,0
+638,7,137,"State x Census Tract",NA,NA,NA,0
+639,2,2,"State x County",NA,NA,NA,0
+639,7,137,"State x Census Tract",NA,NA,NA,0
+640,2,2,"State x County",NA,NA,NA,0
+640,7,137,"State x Census Tract",NA,NA,NA,0
+641,2,2,"State x County",NA,NA,NA,0
+641,7,137,"State x Census Tract",NA,NA,NA,0
+642,2,2,"State x County",NA,NA,NA,0
+642,7,137,"State x Census Tract",NA,NA,NA,0
+643,2,2,"State x County",NA,NA,NA,0
+643,7,137,"State x Census Tract",NA,NA,NA,0
+644,2,2,"State x County",NA,NA,NA,0
+644,7,137,"State x Census Tract",NA,NA,NA,0
+645,10,2220,"State x 5k",NA,NA,NA,0
+645,12,2221,"State x 20k",NA,NA,NA,0
+647,1,1,"State",NA,NA,NA,0
+647,2,2,"State x County",NA,NA,NA,0
+648,1,1,"State",NA,NA,NA,0
+648,2,2,"State x County",NA,NA,NA,1
+649,1,1,"State",NA,NA,NA,0
+649,2,2,"State x County",NA,NA,NA,1
+650,1,1,"State",NA,NA,NA,0
+650,2,2,"State x County",NA,NA,NA,0
+651,1,1,"State",NA,NA,NA,0
+651,2,2,"State x County",NA,NA,NA,1
+652,1,1,"State",NA,NA,NA,0
+652,2,2,"State x County",NA,NA,NA,1
+653,1,1,"State",NA,NA,NA,0
+653,2,2,"State x County",NA,NA,NA,0
+654,1,1,"State",NA,NA,NA,0
+654,2,2,"State x County",NA,NA,NA,0
+655,1,1,"State",NA,NA,NA,0
+655,2,2,"State x County",NA,NA,NA,0
+656,1,1,"State",NA,NA,NA,0
+656,2,2,"State x County",NA,NA,NA,1
+657,1,1,"State",NA,NA,NA,0
+657,2,2,"State x County",NA,NA,NA,1
+658,1,1,"State",NA,NA,NA,0
+658,2,2,"State x County",NA,NA,NA,1
+672,8,154,"State x City/Census Tract",NA,NA,NA,0
+674,8,154,"State x City/Census Tract",NA,NA,NA,0
+676,8,154,"State x City/Census Tract",NA,NA,NA,0
+678,8,154,"State x City/Census Tract",NA,NA,NA,0
+680,8,154,"State x City/Census Tract",NA,NA,NA,0
+682,8,154,"State x City/Census Tract",NA,NA,NA,0
+684,8,154,"State x City/Census Tract",NA,NA,NA,0
+686,8,154,"State x City/Census Tract",NA,NA,NA,0
+688,8,154,"State x City/Census Tract",NA,NA,NA,0
+690,8,154,"State x City/Census Tract",NA,NA,NA,0
+692,8,154,"State x City/Census Tract",NA,NA,NA,0
+694,8,154,"State x City/Census Tract",NA,NA,NA,0
+696,8,154,"State x City/Census Tract",NA,NA,NA,0
+698,1,1,"State",NA,NA,NA,0
+698,2,2,"State x County",NA,NA,NA,0
+698,7,137,"State x Census Tract",NA,NA,NA,0
+699,1,1,"State",NA,NA,NA,0
+699,2,2,"State x County",NA,NA,NA,0
+699,7,137,"State x Census Tract",NA,NA,NA,0
+700,1,1,"State",NA,NA,NA,0
+700,2,2,"State x County",NA,NA,NA,0
+700,7,137,"State x Census Tract",NA,NA,NA,0
+701,1,1,"State",NA,NA,NA,0
+701,2,2,"State x County",NA,NA,NA,0
+701,7,137,"State x Census Tract",NA,NA,NA,0
+702,1,1,"State",NA,NA,NA,0
+702,2,2,"State x County",NA,NA,NA,0
+702,7,137,"State x Census Tract",NA,NA,NA,0
+703,1,1,"State",NA,NA,NA,0
+703,2,2,"State x County",NA,NA,NA,0
+703,7,137,"State x Census Tract",NA,NA,NA,0
+704,1,1,"State",NA,NA,NA,0
+704,2,2,"State x County",NA,NA,NA,0
+705,1,1,"State",NA,NA,NA,0
+705,2,2,"State x County",NA,NA,NA,1
+706,1,1,"State",NA,NA,NA,0
+706,2,2,"State x County",NA,NA,NA,1
+707,2,2,"State x County",NA,NA,NA,0
+708,2,2,"State x County",NA,NA,NA,0
+709,2,2,"State x County",NA,NA,NA,0
+710,2,2,"State x County",NA,NA,NA,0
+711,1,1,"State",NA,NA,NA,0
+711,2,2,"State x County",NA,NA,NA,0
+711,7,137,"State x Census Tract",NA,NA,NA,0
+712,1,1,"State",NA,NA,NA,0
+712,2,2,"State x County",NA,NA,NA,0
+712,7,137,"State x Census Tract",NA,NA,NA,0
+713,1,1,"State",NA,NA,NA,0
+713,2,2,"State x County",NA,NA,NA,0
+713,7,137,"State x Census Tract",NA,NA,NA,0
+714,1,1,"State",NA,NA,NA,0
+714,2,2,"State x County",NA,NA,NA,0
+714,7,137,"State x Census Tract",NA,NA,NA,0
+715,1,1,"State",NA,NA,NA,0
+715,2,2,"State x County",NA,NA,NA,0
+715,7,137,"State x Census Tract",NA,NA,NA,0
+716,1,1,"State",NA,NA,NA,0
+716,2,2,"State x County",NA,NA,NA,0
+716,7,137,"State x Census Tract",NA,NA,NA,0
+717,1,1,"State",NA,NA,NA,0
+717,2,2,"State x County",NA,NA,NA,0
+717,7,137,"State x Census Tract",NA,NA,NA,0
+718,2,2,"State x County",NA,NA,NA,0
+719,2,2,"State x County",NA,NA,NA,0
+720,2,2,"State x County",NA,NA,NA,0
+720,7,137,"State x Census Tract",NA,NA,NA,0
+721,1,1,"State",NA,NA,NA,0
+721,2,2,"State x County",NA,NA,NA,0
+722,1,1,"State",NA,NA,NA,0
+722,2,2,"State x County",NA,NA,NA,0
+723,1,1,"State",NA,NA,NA,0
+723,2,2,"State x County",NA,NA,NA,0
+724,1,1,"State",NA,NA,NA,0
+724,2,2,"State x County",NA,NA,NA,0
+725,1,1,"State",NA,NA,NA,0
+725,2,2,"State x County",NA,NA,NA,0
+726,1,1,"State",NA,NA,NA,0
+726,2,2,"State x County",NA,NA,NA,0
+727,1,1,"State",NA,NA,NA,0
+727,2,2,"State x County",NA,NA,NA,0
+728,1,1,"State",NA,NA,NA,0
+728,2,2,"State x County",NA,NA,NA,1
+733,2,2,"State x County",NA,NA,NA,0
+735,2,2,"State x County",NA,NA,NA,0
+742,2,2,"State x County",NA,NA,NA,0
+743,2,2,"State x County",NA,NA,NA,0
+744,2,2,"State x County",NA,NA,NA,0
+745,2,2,"State x County",NA,NA,NA,0
+746,2,2,"State x County",NA,NA,NA,0
+747,2,2,"State x County",NA,NA,NA,0
+748,2,2,"State x County",NA,NA,NA,0
+751,1,1,"State",NA,NA,NA,0
+752,1,1,"State",NA,NA,NA,0
+753,1,1,"State",NA,NA,NA,0
+753,2,2,"State x County",NA,NA,NA,0
+754,1,1,"State",NA,NA,NA,0
+754,2,2,"State x County",NA,NA,NA,1
+769,2,2,"State x County",NA,NA,NA,0
+776,2,2,"State x County",NA,NA,NA,0
+783,2,2,"State x County",NA,NA,NA,0
+790,2,2,"State x County",NA,NA,NA,0
+797,2,2,"State x County",NA,NA,NA,0
+802,2,2,"State x County",NA,NA,NA,0
+807,2,2,"State x County",NA,NA,NA,0
+812,2,2,"State x County",NA,NA,NA,0
+817,2,2,"State x County",NA,NA,NA,0
+822,2,2,"State x County",NA,NA,NA,0
+839,1,1,"State",NA,NA,NA,0
+839,2,2,"State x County",NA,NA,NA,0
+840,1,1,"State",NA,NA,NA,0
+840,2,2,"State x County",NA,NA,NA,0
+841,1,1,"State",NA,NA,NA,0
+841,2,2,"State x County",NA,NA,NA,0
+842,2,2,"State x County",NA,NA,NA,0
+843,2,2,"State x County",NA,NA,NA,0
+852,2,2,"State x County",NA,NA,NA,0
+853,2,2,"State x County",NA,NA,NA,0
+854,2,2,"State x County",NA,NA,NA,0
+855,2,2,"State x County",NA,NA,NA,0
+864,2,2,"State x County",NA,NA,NA,0
+865,2,2,"State x County",NA,NA,NA,0
+866,2,2,"State x County",NA,NA,NA,0
+867,2,2,"State x County",NA,NA,NA,0
+868,2,2,"State x County",NA,NA,NA,0
+869,2,2,"State x County",NA,NA,NA,0
+870,2,2,"State x County",NA,NA,NA,0
+871,2,2,"State x County",NA,NA,NA,0
+873,1,1,"State",NA,NA,NA,0
+874,7,137,"State x Census Tract",NA,NA,NA,0
+876,2,2,"State x County",NA,NA,NA,0
+876,7,137,"State x Census Tract",NA,NA,NA,0
+877,2,2,"State x County",NA,NA,NA,0
+877,7,137,"State x Census Tract",NA,NA,NA,0
+878,2,2,"State x County",NA,NA,NA,0
+878,7,137,"State x Census Tract",NA,NA,NA,0
+879,2,2,"State x County",NA,NA,NA,0
+879,7,137,"State x Census Tract",NA,NA,NA,0
+880,2,2,"State x County",NA,NA,NA,0
+880,7,137,"State x Census Tract",NA,NA,NA,0
+881,2,2,"State x County",NA,NA,NA,0
+881,7,137,"State x Census Tract",NA,NA,NA,0
+882,2,2,"State x County",NA,NA,NA,0
+882,7,137,"State x Census Tract",NA,NA,NA,0
+883,2,2,"State x County",NA,NA,NA,0
+883,7,137,"State x Census Tract",NA,NA,NA,0
+884,2,2,"State x County",NA,NA,NA,0
+884,7,137,"State x Census Tract",NA,NA,NA,0
+885,2,2,"State x County",NA,NA,NA,0
+885,7,137,"State x Census Tract",NA,NA,NA,0
+886,2,2,"State x County",NA,NA,NA,0
+886,7,137,"State x Census Tract",NA,NA,NA,0
+887,2,2,"State x County",NA,NA,NA,0
+887,7,137,"State x Census Tract",NA,NA,NA,0
+888,2,2,"State x County",NA,NA,NA,0
+888,7,137,"State x Census Tract",NA,NA,NA,0
+889,2,2,"State x County",NA,NA,NA,0
+889,7,137,"State x Census Tract",NA,NA,NA,0
+890,2,2,"State x County",NA,NA,NA,0
+890,7,137,"State x Census Tract",NA,NA,NA,0
+891,2,2,"State x County",NA,NA,NA,0
+891,7,137,"State x Census Tract",NA,NA,NA,0
+892,2,2,"State x County",NA,NA,NA,0
+914,2,2,"State x County",NA,NA,NA,0
+915,2,2,"State x County",NA,NA,NA,0
+916,2,2,"State x County",NA,NA,NA,0
+917,2,2,"State x County",NA,NA,NA,0
+919,2,2,"State x County",NA,NA,NA,0
+920,2,2,"State x County",NA,NA,NA,0
+921,2,2,"State x County",NA,NA,NA,0
+927,2,2,"State x County",NA,NA,NA,0
+929,2,2,"State x County",NA,NA,NA,0
