@@ -5,6 +5,11 @@
 #' overwhelming the API, these definitions are embedded in the package and
 #' are current as of the date of package compilation.
 #'
+#' @param path The filepath to read the definitions files, which will
+#'             default to the package install when the package is complete.
+#'
+#' If you wish to update the definitions files, run read_nepht_metadata()
+#' and use the same path setting for both that function and this one.
 #'
 
 # rewrite this to allow you to include your own filepath(s) for

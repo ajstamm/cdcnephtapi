@@ -10,7 +10,7 @@
 #' @param smoothed   Whether data should be smoothed (1) or not (0)
 #' @param mstrat     If selected, sub-stratification to download
 #' @param mstrat_lvl If selected, sub-stratification levels to download
-#' @param token      API token, if provided (not yet implemented)
+#' @param token      Your API token. If you don't have one, set this to NULL.
 #'
 # notes:
 # geographic levels and geographies can equal ALL
